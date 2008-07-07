@@ -1,0 +1,46 @@
+CHANGELOG for 0.9.9
+*ported Battle for Wesnoth version 1.4.x
+*wmllintized and abandoned.
+
+CHANGELOG for 0.8.6
+*add danish translation
+*update Czechs, French, Norwegian, Swedish, Valancian translations
+*fix recruit list in "Scout around Barnon"
+*fix unhide hidden unit (4.cfg, 14haeltin.cfg)
+
+CHANGELOG for 0.8.5
+*fix gold transfer in "Hired Sword"
+*Update catalan translation
+
+CHANGELOG for 0.8.4
+*fix interrogation in "Abducted Bride"
+*fix several move_fake_unit"
+*fix Aragwaith leader dialog in "Trapped"
+
+CHANGELOG for 0.8.3
+*fix map in conversation
+
+CHANGELOG for 0.8.2
+*fix leadership flags
+*add Special Notes in some Akladian unit description
+
+CHANGELOG for 0.8.1
+
+*fix Aragwaithi Captain & Flagbearer special resistances ("cold" not "ice")
+
+CHANGELOG for 0.8.0
+
+*apply changes on scenarii and units to be comply with WML in BFW version 1.1.x
+*use Araigwaithi units as distributed in Imperial Era version 0.13 (rev 188)
+*use L3 Outlaw Pack Version 2.2
+*create TCed version of several units sprites
+*copy definition of missing units elvish lord, demilich and orcish shaman
+*remove medic unit and use human-mage unit (non playing)
+*cleaning up unused images
+*update one sentence in dialog of scenario "Hired Swords"
+*take latest translations
+
+CHANGELOG for 0.7.3a
+
+*correct typos, gettext issues, etc posted by alxrem on ANew Order bug page and
+by Oto 'tapik' Buchta
