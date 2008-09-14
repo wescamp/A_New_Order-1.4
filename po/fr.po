@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-07-07 22:32+0200\n"
-"PO-Revision-Date: 2007-01-28 23:14+0100\n"
-"Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
+"PO-Revision-Date: 2008-09-14 19:02+0100\n"
+"Last-Translator: Damien J <guydelatour AT gloireetpouvoirPTcom>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,12 +14,13 @@ msgstr ""
 #. [campaign]
 #: A_New_Order/_main.cfg:30
 msgid "A New Order"
-msgstr "Un nouvel ordre"
+msgstr "Un ordre nouveau"
 
+# Damien : abv. pour Un Ordre Nouveau
 #. [campaign]
 #: A_New_Order/_main.cfg:31
 msgid "ANO"
-msgstr ""
+msgstr "UON"
 
 #. [campaign]
 #: A_New_Order/_main.cfg:37
@@ -38,7 +39,6 @@ msgstr "Normal"
 
 #. [campaign]
 #: A_New_Order/_main.cfg:44
-#, fuzzy
 msgid ""
 "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over "
 "the people dreaming about old legends. Can Gawen Hagarthen unite them all "
@@ -50,144 +50,144 @@ msgid ""
 "(Intermediate level, 45 scenarios. Works on 1.4)\n"
 "Version "
 msgstr ""
-"Le vieux royaume de Wesnoth tombe en ruine, tandis que les barbares dominent "
-"le peuple qui ne rêve qu'aux vieilles légendes. Gawen Hagarthen peut-il les "
-"unir tous contre le danger commun ? Cette campagne est supposée être facile."
+"Le vieux royaume de Wesnoth tombe en ruine, tandis que des barbares dominent "
+"un peuple qui ne rêve qu'aux vieilles légendes. Gawen Hagarthen peut-il les "
+"unir tous contre le danger commun ?\n"
+"\n"
+"Remarque : Cette campagne n'est pas destinée aux mineurs. Elle contient des "
+"éléments ne convenant pas aux enfant. Vous voilà prévenus.\n"
+"\n"
+"(Niveau intermédiaire, 45 scénarios, fonctionne avec la v1.4)\n"
+"Version"
 
 #. [about]
 #: A_New_Order/about.cfg:12
 msgid "Creator and Lead Designer"
-msgstr ""
+msgstr "Créateur et concepteur principal"
 
 #. [entry]
 #: A_New_Order/about.cfg:17
 msgid ""
 "storyline, coding, story images, portraits, original sprites for Akladians."
 msgstr ""
+"histoire, programmation, illustrations de l'histoire et des portraits, "
+"dessins originaux des Akladiens."
 
 #. [about]
 #: A_New_Order/about.cfg:21
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Maintenance de la campagne"
 
 #. [entry]
 #: A_New_Order/about.cfg:24
 msgid "Main maintainer, release manager"
-msgstr ""
+msgstr "Chargé principal de la maintenance, gestionnaire des version"
 
 #. [about]
 #: A_New_Order/about.cfg:28
-#, fuzzy
 msgid "Translations"
-msgstr "Les Préparatifs"
+msgstr "Traductions"
 
 #. [about]
 #: A_New_Order/about.cfg:29
 msgid "(from WesCamp-i18n)"
-msgstr ""
+msgstr "(extrait de WesCamp-i18n)"
 
 #. [entry]
 #: A_New_Order/about.cfg:31
-#, fuzzy
 msgid " British (en_gb) translation:"
-msgstr ""
-"\n"
-"Harry Dewulf : traduction anglaise (en_gb)\n"
+msgstr " Traduction anglaise (gb) :"
 
 #. [entry]
 #: A_New_Order/about.cfg:34
 msgid "Catalonian translation:"
-msgstr ""
+msgstr "Traduction catalane :"
 
 #. [entry]
 #: A_New_Order/about.cfg:37
-#, fuzzy
 msgid "Czech translation:"
-msgstr "Conversation"
+msgstr "Traduction tchèque :"
 
 #. [entry]
 #: A_New_Order/about.cfg:40
 msgid "Danish translation:"
-msgstr ""
+msgstr "Traduction danoise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:43
 msgid "French translation:"
-msgstr ""
+msgstr "Traduction française :"
 
 #. [entry]
 #: A_New_Order/about.cfg:46
 msgid "German translation:"
-msgstr ""
+msgstr "Traduction allemande :"
 
 #. [entry]
 #: A_New_Order/about.cfg:49
 msgid "Italian translation:"
-msgstr ""
+msgstr "Traduction italienne :"
 
 #. [entry]
 #: A_New_Order/about.cfg:52
 msgid "Polish translation:"
-msgstr ""
+msgstr "Traduction polonaise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:55
-#, fuzzy
 msgid "Russian translation:"
-msgstr ""
-"\n"
-"Alexey Remizov : traduction russe\n"
+msgstr "Traduction russe :"
 
 #. [entry]
 #: A_New_Order/about.cfg:58
-#, fuzzy
 msgid "Spanish translation:"
-msgstr "Séparation."
+msgstr "Traduction espagnole :"
 
 #. [entry]
 #: A_New_Order/about.cfg:61
 msgid "Swedish translation:"
-msgstr ""
+msgstr "Traduction suédoise :"
 
 #. [entry]
 #: A_New_Order/about.cfg:64
 msgid "Turkish translation:"
-msgstr ""
+msgstr "Traduction turque :"
 
 #. [about]
 #: A_New_Order/about.cfg:68
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Et merci aussi à"
 
 #. [entry]
 #: A_New_Order/about.cfg:71
 msgid "sprites for Aragwaithi and corrections of Akladian sprites"
-msgstr ""
+msgstr "Dessins des Aragwaiths et corrections des images pour Akladiens"
 
 #. [entry]
 #: A_New_Order/about.cfg:75
 msgid "bug reports, english errors corrections"
-msgstr ""
+msgstr "Rapport de bogues, correction des erreurs de traduction en anglais"
 
 #. [entry]
 #: A_New_Order/about.cfg:79
 msgid "Outlaw level 3 pack is maintained by them."
-msgstr ""
+msgstr "Le pack de hors-la-loi niveau 3 est maintenu par eux."
 
 #. [entry]
 #: A_New_Order/about.cfg:83
 msgid "for patience and explaining how wescamp works"
 msgstr ""
+"pour leur patience et pour m'avoir expliqué le fonctionnement de Wescamp"
 
 #. [entry]
 #: A_New_Order/about.cfg:87
 msgid "for art advises"
-msgstr ""
+msgstr "pour les conseils graphiques"
 
 #. [entry]
 #: A_New_Order/about.cfg:91
 msgid "for hints on wml and unit stats"
-msgstr ""
+msgstr "pour les astuces concernant le WML et les statistiques des unités"
 
 #: A_New_Order/macros/ano_macros.cfg:10
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
@@ -257,7 +257,7 @@ msgstr ""
 
 #: A_New_Order/macros/ano_macros.cfg:679
 msgid "The unit $ano_loyal[0].user_description became LOYAL."
-msgstr "L'unité $ano_loyal[0].user_description est devenue LOYALE."
+msgstr "L'unité $ano_loyal[0].user_description est devenue fidèle."
 
 #. [then]
 #. [scenario]
@@ -268,11 +268,11 @@ msgstr "fidèle"
 
 #: A_New_Order/macros/ano_macros.cfg:685
 msgid "Zero upkeep"
-msgstr "Zéro entretien."
+msgstr "Pas d'entretien."
 
 #: A_New_Order/macros/ano_macros.cfg:693
 msgid "Scenario notes:"
-msgstr ""
+msgstr "Remarques sur le scénario :"
 
 #. [part]
 #: A_New_Order/macros/conversations.cfg:4
@@ -313,7 +313,7 @@ msgid ""
 "left him there to death!"
 msgstr ""
 "Et nous l'avons abandonné ! Et vous aussi, honorable et brave Reme, vous "
-"l'avez laissé là à la mort !"
+"l'avez laissé mourir là !"
 
 #: A_New_Order/macros/conversations.cfg:16
 msgid ""
@@ -365,7 +365,7 @@ msgstr ""
 
 #: A_New_Order/macros/conversations.cfg:29
 msgid "Don't be silly, girl. I am not in command here."
-msgstr "Ne soit pas idiote, fille. Ce n'est pas moi qui commande ici."
+msgstr "Ne soit pas idiote, fillette. Ce n'est pas moi qui commande ici."
 
 #: A_New_Order/macros/conversations.cfg:30
 msgid "She's an action girl, isn't she."
@@ -412,14 +412,14 @@ msgid ""
 "month since we left Raedwood, and we already defeated forces larger than "
 "ours."
 msgstr ""
-"C'est étrange, mais j'ai eu ce sentiment de succès que je n'avais jamais eu "
-"avant. Nos soldats sont vraiment les meilleurs dans leur genre : la vraie "
-"élite. Il y a plus de quatre mois depuis que nous avons quitté Raedwood et "
-"nous avons déjà vaincu des forces plus grandes que les nôtres."
+"C'est étrange, mais j'ai eu cette sensation de succès que je n'avais jamais "
+"eu avant. Nos soldats sont vraiment les meilleurs dans leur genre : la vraie "
+"élite. Il y a plus d'un mois qui est passé depuis que nous avons quitté "
+"Raedwood et nous avons déjà vaincu des forces plus grandes que les nôtres."
 
 #: A_New_Order/macros/conversations.cfg:45
 msgid "A month? Are you sure it's more than a month?"
-msgstr "Un mois ? Tu es sûr que ce sera plus d'un mois ?"
+msgstr "Un mois ? Tu es sûr que ça fera plus d'un mois ?"
 
 #. [event]
 #. [then]
@@ -561,7 +561,7 @@ msgid ""
 "will be speaked by both male, Milildur, and Elorain, female. Make it gender "
 "neutral."
 msgstr ""
-"Remarque pour les traducteurs : Le message 'I fought with you so many "
+"Remarque pour les traducteurs : le message 'I fought with you so many "
 "battles..'etc. sera dit par un mâle, Milildur et par une femelle, Elorain. "
 "Gardez-le neutre."
 
@@ -1043,7 +1043,7 @@ msgid ""
 msgstr ""
 "N'essayez pas de m'effrayer. Je suis trop vieux pour avoir peur de la mort "
 "et je n'ai pas de famille. Je vais essayer de guérir votre fils parce que "
-"c'est mon devoir de médecin et pas à cause de vos menaces, dame Akladienne."
+"c'est mon devoir de médecin et pas à cause de vos menaces, dame akladienne."
 
 #. [then]
 #: A_New_Order/scenarios/ano-01.cfg:544
@@ -1069,7 +1069,7 @@ msgstr "Non ! Ne meurs pas ! Pas maintenant !"
 #. [event]
 #: A_New_Order/scenarios/ano-01.cfg:629
 msgid "For freedom! Death to Akladian beasts!"
-msgstr "Pour la liberté ! Mort aux bêtes Akladiennes !"
+msgstr "Pour la liberté ! Mort aux bêtes akladiennes !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-01.cfg:630
@@ -1378,14 +1378,12 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-01_06macros.cfg:183
-#, fuzzy
 msgid ""
 "Any unit which will reach either signpost will be evacuated. Units not "
 "recalled will be lost. Gawen must not escape, or he would be considered "
 "unworthy coward by his soldiers. You will get a bonus for each turn resisted "
 "above the required limit."
 msgstr ""
-"\n"
 "Toutes les unités qui atteignent le panneau indicateur seront évacuées. Les "
 "unités non rappelées seront perdues. Gawen ne peut pas fuir ou il sera "
 "considéré par ses soldats comme un lâche. Vous recevrez un bonus pour chaque "
@@ -1485,7 +1483,7 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/ano-02.cfg:54
 msgid "Gaeltin Hyer"
-msgstr ""
+msgstr "Gaeltin Hyer"
 
 #. [side]: description=Raul O Gaeltin, type=Akladian Lord
 #: A_New_Order/scenarios/ano-02.cfg:71
@@ -1742,7 +1740,7 @@ msgstr "Ouais !"
 #. [event]
 #: A_New_Order/scenarios/ano-02.cfg:419
 msgid "This is the end which awaits all traitors!"
-msgstr "Voici la fin qui attend tous les traîtres !"
+msgstr "Voici comment finissent tous les traîtres !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-02.cfg:430
@@ -2323,15 +2321,14 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-04.cfg:245 A_New_Order/scenarios/ano-04.cfg:273
-#, fuzzy
 msgid ""
 "Reach either eastern or western signpost with both Lorin AND Reme. After "
 "that, hold on at least $ano_howmanyturns turns before honorable death of "
 "Gawen Hagarthen."
 msgstr ""
-"Déplacez Lorin ET Reme vers le panneau indicateur de l'est ou celui de "
-"l'ouest. Ensuite, tenez au moins cinq tours avant que Gawen Hagarthen ne "
-"meure honorablement."
+"Déplacez Lorin ET Reme vers le panneau indicateur de l'est ou vers celui de "
+"l'ouest. Ensuite, tenez au moins $ano_howmanyturns tours avant que Gawen "
+"Hagarthen ne meure honorablement."
 
 #. [then]
 #: A_New_Order/scenarios/ano-04.cfg:262
@@ -4038,13 +4035,12 @@ msgstr "Reumario"
 
 #. [event]
 #: A_New_Order/scenarios/ano-09.cfg:117
-#, fuzzy
 msgid ""
 "So, let's put it all together. You agree to pay 13 gold pieces per swordman, "
 "15 gold pieces for archer and 15 for spearman, right?"
 msgstr ""
-"Donc, en résumé, vous acceptez de payer 14 pièces par épéiste, 15 par archer "
-"et 18 par piquier, c'est cela ?"
+"Donc, en résumé, vous acceptez de payer 13 pièces par épéiste, 15 par archer "
+"et 15 par piquier, c'est cela ?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-09.cfg:118
@@ -5257,9 +5253,8 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/ano-15a.cfg:21 A_New_Order/scenarios/ano-11.cfg:20
 #: A_New_Order/scenarios/ano-15.cfg:27
-#, fuzzy
 msgid "Freetown"
-msgstr "Vers Libreville"
+msgstr "Libreville"
 
 #. [side]: description=Gwidle Turlin, type=General
 #: A_New_Order/scenarios/ano-15a.cfg:37 A_New_Order/scenarios/ano-11.cfg:34
@@ -5914,14 +5909,12 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-12.cfg:179
-#, fuzzy
 msgid ""
 "In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
 "it would make no difference.\n"
 "\n"
 "Move Ruvio to signpost to ask him for advise."
 msgstr ""
-"\n"
 "Dans ce scénario, vous pouvez interroger le chef avec Ruvio ou Gawen, ça ne "
 "fait pas de différence.\n"
 "\n"
@@ -6516,7 +6509,7 @@ msgstr "Vers Barnon"
 #. [scenario]
 #: A_New_Order/scenarios/ano-13.cfg:247
 msgid "Hyeton"
-msgstr ""
+msgstr "Hyeton"
 
 #. [event]
 #: A_New_Order/scenarios/ano-13.cfg:292
@@ -7452,22 +7445,17 @@ msgstr ""
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14a.cfg:196
-#, fuzzy
 msgid ""
 "Also Lady Lorin can interrogate enemy leaders.\n"
 "You will receive no bonus if withdrawing with Gawen."
 msgstr ""
-"\n"
 "Dame Lorin peut aussi interroger les chefs ennemis. \n"
 "Vous ne recevrez aucun bonus si Gawen bat en retraite."
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14a.cfg:204
-#, fuzzy
 msgid "You will receive no bonus if withdrawing with Gawen."
-msgstr ""
-"\n"
-"Vous ne recevrez aucun bonus si Gawen bat en retraite."
+msgstr "Vous ne recevrez aucun bonus si Gawen bat en retraite."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14a.cfg:218
@@ -7955,9 +7943,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:307
-#, fuzzy
 msgid "To win, you should move Reme Carrenemore here!"
-msgstr "Savez-vous où se trouve Reme Carrenmoe ?"
+msgstr "Pour gagner, vous devriez amener Reme Carrenemore ici !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14b.cfg:310
@@ -8653,7 +8640,6 @@ msgstr ""
 
 #. [then]
 #: A_New_Order/scenarios/ano-14c.cfg:145
-#, fuzzy
 msgid "(whispering) Old friend my arse..."
 msgstr "<soupir> Vieil ami, mon cul..."
 
@@ -8682,12 +8668,10 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14c.cfg:169
-#, fuzzy
 msgid ""
 "Because Andrey Yaranov joined you together with Lorin, you can now recruit "
 "Aragwaiths."
 msgstr ""
-"\n"
 "Comme Andrey Yaranov s'est joint à vous avec Lorin, vous pouvez désormais "
 "recruter des Aragwaiths."
 
@@ -8877,12 +8861,10 @@ msgstr "Tu as peut-être raison. Nous devrions retourner à Libreville."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:199 A_New_Order/scenarios/ano-14d.cfg:234
-#, fuzzy
 msgid ""
 "Yes, yes, I will answer, yummie.. liver. What kind of liver it would be?"
 msgstr ""
-"Oui, oui, je vais répondre, délicieuse viande... Quel genre de viande ce "
-"sera ?"
+"Oui, oui, je vais répondre, bonne... viande. Quel genre de chair ce sera ?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:200 A_New_Order/scenarios/ano-14d.cfg:235
@@ -8909,12 +8891,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:203 A_New_Order/scenarios/ano-14d.cfg:238
-#, fuzzy
 msgid ""
 "My boss would know. I know nothing, I am great warrior, not great thinker."
 msgstr ""
-"Mon chef devrait savoir. Je sais rien. Je suis un grand guerrier, pas un "
-"grand penseur."
+"Mon chef devrait savoir. Je sais rien. Je suis grand guerrier, pas grand "
+"penseur."
 
 #. [event]
 #: A_New_Order/scenarios/ano-14d.cfg:205 A_New_Order/scenarios/ano-14d.cfg:240
@@ -9096,7 +9077,6 @@ msgstr "Bussur"
 
 #. [objectives]
 #: A_New_Order/scenarios/ano-14e.cfg:170
-#, fuzzy
 msgid "You may withdraw by moving Gawen to signpost."
 msgstr ""
 "Vous pouvez battre en retraite en déplaçant Gawen au panneau indicateur."
@@ -10988,7 +10968,9 @@ msgstr "Oui, en effet."
 #: A_New_Order/scenarios/ano-17.cfg:400 A_New_Order/scenarios/ano-17.cfg:414
 msgid ""
 "If you were as delighted as I with the fight, please answer me few questions."
-msgstr "Si tu détestes le combat autant que moi, réponds à mes questions."
+msgstr ""
+"Si tu as apprécié le combat autant que moi, aie la courtoisie de répondre à "
+"mes questions."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:405
@@ -11006,14 +10988,14 @@ msgid ""
 "which is with you. It was her who gave you courage, that traitor of her own "
 "race."
 msgstr ""
-"Tu ne serais pas capable de faire ça sans le support de la magie de cette "
-"sorcière, la sorcière est avec toi. C'est elle qui t'a donné le courage, "
-"cette traîtresse envers sa propre race."
+"Tu ne serais pas capable de faire ça sans l'aide de la magie de cette "
+"sorcière, qui est avec toi. C'est elle qui t'a donné le courage, cette "
+"traîtresse envers sa propre race."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:407
 msgid "Hmm.. Should I feel complimented, or offended?"
-msgstr "Hum... Je dois prendre ça pour un compliment ou pour une offense ?"
+msgstr "Hum... Je dois prendre ça pour un compliment ou pour une insulte ?"
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:419
@@ -11033,14 +11015,14 @@ msgid ""
 "will enter the heaven without hands, legs and head will make you a little "
 "bit uneasy."
 msgstr ""
-"Non, bien sûr que non, tu es un guerrier courageux. Je pensais juste que la "
+"Non, bien sûr que non, tu es un guerrier courageux. Je croyais juste que la "
 "pensée de rentrer au paradis sans mains, sans jambes et sans tête te "
 "rendrait un peu moins tranquille."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:422
 msgid "Stop it, witch. You can't scare me."
-msgstr "Laisse tomber, sorcière, tu ne sais pas me faire peur."
+msgstr "Laisse tomber, sorcière, tu ne peux pas me faire peur."
 
 #. [event]
 #: A_New_Order/scenarios/ano-17.cfg:423
@@ -11924,7 +11906,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:447
-#, fuzzy
 msgid ""
 "A lot of interesting things happened recently! Two girls were born in my "
 "village, the same day and even the same hour! Fat Robert lost a horse in the "
@@ -11932,7 +11913,7 @@ msgid ""
 msgstr ""
 "Beaucoup de choses intéressantes se sont passées récemment ! Deux filles "
 "sont nées dans mon village, le même jour à la même heure ! Gros-Robert a "
-"perdu un cheval en forêt, je pense qu'il a été volé par des hors-la-loi."
+"perdu un cheval en forêt, et je pense qu'il a été volé par des hors-la-loi."
 
 #. [event]
 #: A_New_Order/scenarios/ano-18.cfg:482 A_New_Order/scenarios/ano-20.cfg:437
@@ -12139,7 +12120,7 @@ msgstr "Ripe Scud"
 #. [scenario]
 #: A_New_Order/scenarios/ano-19c.cfg:3
 msgid "The Oracle"
-msgstr "L'oracle."
+msgstr "L'Oracle."
 
 #. [part]
 #: A_New_Order/scenarios/ano-19c.cfg:11
@@ -12218,7 +12199,7 @@ msgstr "Gros-Bart"
 #: A_New_Order/scenarios/ano-19c.cfg:497 A_New_Order/scenarios/ano-19c.cfg:510
 #: A_New_Order/scenarios/ano-19c.cfg:521 A_New_Order/scenarios/ano-19c.cfg:532
 msgid "Outlaw"
-msgstr "Un hors-la-loi"
+msgstr "Hors-la-loi"
 
 #. [side]: description=Burke Barien, type=Akladian Lord
 #: A_New_Order/scenarios/ano-19c.cfg:544
@@ -12407,19 +12388,17 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:800
-#, fuzzy
 msgid "Note to translators: you will never be is plural."
-msgstr ""
-"Note de traduction : 'vous ne le deviendrez jamais' est à prendre au pluriel."
+msgstr "Note de traduction : 'vous ne le deviendrez jamais' est au pluriel."
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:801
-#, fuzzy
 msgid ""
 "(Note to translators: you will never be is plural)^No! No!  There has to be "
 "better answer!"
 msgstr ""
-"Note de traduction : 'vous ne le deviendrez jamais' est à prendre au pluriel."
+"(Note de traduction : 'vous ne le deviendrez jamais' est à prendre au "
+"pluriel.)^Non ! Non ! Il doit y avoir une meilleure réponse !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-19c.cfg:802
@@ -13208,7 +13187,7 @@ msgstr "Ah ! Ils avaient caché de l'or ici !"
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:185
 msgid "OOPS. This is a bug."
-msgstr ""
+msgstr "Oups. Voici un bogue."
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:295
@@ -13560,10 +13539,9 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:440
-#, fuzzy
 msgid "Yes.. I remember it. Indeed, they bought poison from us. (cough)"
 msgstr ""
-"Oui... Je m'en, souviens. En effet, ils nous ont acheté du poison. <Tousse>"
+"Oui... Je m'en, souviens. En effet, ils nous ont acheté du poison. (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:441
@@ -13582,15 +13560,14 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:443
-#, fuzzy
 msgid ""
 "Everything I've heard about your mother's death, fits perfectly our poison. "
 "I can't be sure, of course, but I think Lorin's clan bought the poison to "
 "kill your mother... (cough)"
 msgstr ""
-"Tout ce que j'ai entendu de la mort de ta mère ressemble parfaitement à "
-"l'action de notre poison. Je ne peux pas en être sûr, évidemment, mais je "
-"pense que le clan de Lorin a acheté le poison pour tuer ta mère... <Tousse>"
+"Tout ce que j'ai entendu de la mort de ta mère ressemble parfaitement à la "
+"façon dont agit notre poison. Je ne peux jurer de rien, évidemment, mais je "
+"pense que le clan de Lorin a acheté le poison pour tuer ta mère... (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:446
@@ -13831,12 +13808,11 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:505
-#, fuzzy
 msgid ""
 "Ha, ha, and who is speaking that? Hey, Gawen, have you ever asked Lorin "
 "about how your mother died? Have you... aaargh!"
 msgstr ""
-"Ha, ha et qui nous dit ça ? Hé, Gawen, tu as déjà demandé à Lorin comment ta "
+"Ha, ha et qui parle de ça ? Hé, Gawen, tu as déjà demandé à Lorin comment ta "
 "mère est morte ? Tu lui as... aaaargh !"
 
 #. [event]
@@ -13868,7 +13844,7 @@ msgstr "Franchement, je m'en fiche."
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:519
 msgid "Outlaw now, outlife soon."
-msgstr "Hors-la-loi maintenant, hors de la vie bientôt !"
+msgstr "Hors-la-loi maintenant, hors-de-la-vie bientôt !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-20macros.cfg:520
@@ -14058,12 +14034,11 @@ msgstr ""
 "les Wesnothiens vivront en paix."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:595
-#, fuzzy
 msgid ""
 "Wesnothians! Bunch of flabby wimps! Band of stinking lobs! (coughs) You... "
 "you..."
 msgstr ""
-"Les Wesnothiens ! Un tas de poules mouillées ! Une bande de puants <Tousse> "
+"Les Wesnothiens ! Des tas de poules mouillées ! Une bande de puants (Tousse) "
 "Vous... Vous..."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:596
@@ -14100,7 +14075,7 @@ msgstr ""
 #: A_New_Order/scenarios/ano-20macros.cfg:661
 #: A_New_Order/scenarios/ano-20macros.cfg:675
 msgid "Who dies from my hand, is dead forever."
-msgstr "Qui meurt par ma main, est mort pour toujours."
+msgstr "Qui meurt par ma main meurt pour toujours."
 
 #: A_New_Order/scenarios/ano-20macros.cfg:690
 msgid "Bor, I am calling to you! Arise, arise!"
@@ -14928,9 +14903,8 @@ msgstr ""
 
 #. [label]
 #: A_New_Order/scenarios/ano-21c.cfg:56 A_New_Order/scenarios/ano-21d.cfg:23
-#, fuzzy
 msgid "Dead city"
-msgstr "La Ville morte."
+msgstr "Ville morte"
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:114
@@ -15011,7 +14985,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:122
-#, fuzzy
 msgid ""
 "No, Gawen. For great many Akladians, especially simple clan members Gawen "
 "Hagarthen is rightfull king. Only part of Akladian lords hates you. You are "
@@ -15019,11 +14992,11 @@ msgid ""
 "create one nation from them, and defeat the forces of evil which will came "
 "here led by Grekulak."
 msgstr ""
-"Non Gawen, Pour la grande majorité des Akladiens, spécialement les membres "
-"des simples clans, Gawen Hagarthen est le roi légitime. Aucun seigneur "
-"Akladien ne vous déteste. Vous êtes la seule personne à pouvoir réunir les "
-"Akladiens et les Wesnothiens, vous seul pouvez créer une nation pour tous et "
-"vaincre les forces du mal qui vont venir ici, menées par Grekulak."
+"Non Gawen, Pour la grande majorité des Akladiens, spécialement les simples "
+"membres de clans, Gawen Hagarthen est le roi légitime. Aucun seigneur "
+"Akladien ne vous déteste. Vous êtes le seul à pouvoir réunir les Akladiens "
+"et les Wesnothiens, le seul à pouvoir créer une nation pour tous, et le seul "
+"à pouvoir vaincre les forces du mal qui vont arriver ici menées par Grekulak."
 
 #. [event]
 #: A_New_Order/scenarios/ano-21c.cfg:123
@@ -15288,9 +15261,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_New_Order/scenarios/ano-21d.cfg:97
-#, fuzzy
 msgid "Explore"
-msgstr "Épilogue"
+msgstr "Explorer"
 
 #. [event]
 #: A_New_Order/scenarios/ano-21d.cfg:124
@@ -15952,9 +15924,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-22.cfg:485
-#, fuzzy
 msgid "And..."
-msgstr "Et maintenant..."
+msgstr "Et..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-22.cfg:486
@@ -16507,13 +16478,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23d.cfg:28
-#, fuzzy
 msgid ""
 "(sigh) Well, I am. King Gawen Haldric Hagarthen. Rightful heir to thrones of "
 "Vakladia et cetera, et cetera."
 msgstr ""
-"<soupir> Oui, c'est bien moi. Le roi Gawen Haldric Hagarthen. Successeur "
-"légitime au trône de Vakladia et caetera et caetera."
+"(Soupir) Oui, c'est bien moi. Le roi Gawen Haldric Hagarthen. Successeur "
+"légitime au trône de Vakladia et caetera, et caetera."
 
 #. [event]
 #: A_New_Order/scenarios/ano-23d.cfg:31
@@ -16829,15 +16799,15 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:443
-#, fuzzy
 msgid ""
 "You uncle? Me? You are just underling! Even if you ARE really Gawen "
 "Hagarthen, your wife was one of those dogs! (coughs) My cousin should never "
 "desacrate our family by marrying her! I spit on you!"
 msgstr ""
 "Ton oncle ? Moi ? Tu n'es qu'un inférieur ! Même si tu ES vraiment Gawen "
-"Hagarthen, ta femme était un de ces chiens ! <Tousse> Mon cousin n'aurait "
-"jamais dû déshonorer notre famille en l'épousant ! Je te crache dessus !"
+"Hagarthen, ta femme appartenait à cette race de chiens ! (Tousse) Mon cousin "
+"n'aurait jamais dû déshonorer notre famille en l'épousant ! Je te crache "
+"dessus !"
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:444
@@ -16854,18 +16824,17 @@ msgid ""
 "A king! I've never ever have killed a king before. You know, I should feel "
 "more exciting."
 msgstr ""
-"Un roi ! Je n'avais jamais tué un roi avant. Vous voyez, je devrais "
-"ressentir plus d'excitation."
+"Un roi ! Je n'avais jamais tué un roi avant. Je devrais ressentir plus "
+"d'excitation."
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:449
-#, fuzzy
 msgid ""
 "So you are Lorin from Gallorae's... Best sword amongst the Akladian woman. "
 "(cough)"
 msgstr ""
-"Donc vous êtes Lorin du clan de Gallorae. La plus fine lame des femmes "
-"Akladiennes. <Tousse>"
+"Donc vous êtes Lorin du clan de Gallorae... La plus fine lame des femmes "
+"Akladiennes. (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:450
@@ -16882,7 +16851,7 @@ msgid ""
 "To introduce peace and order into Vakladia and to unite it with my kingdom, "
 "Okladia."
 msgstr ""
-"Pour ramener la paix et l'ordre en Vakladia et l'unifier à mon royaume "
+"Pour ramener la paix et l'ordre en Vakladia et l'unifier à mon royaume, "
 "Okladia."
 
 #. [event]
@@ -16898,7 +16867,6 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:453
-#, fuzzy
 msgid ""
 "Ghosts, people who were long dead who were seen again.. Zombies... My scouts "
 "were giving me contradictory reports. Some of my lords disappeared. I was "
@@ -16908,7 +16876,7 @@ msgstr ""
 "Des fantômes, des gens qui sont morts depuis longtemps et que l'on revoit... "
 "des zombies... Mes éclaireurs m'ont fait des rapports contradictoires. "
 "Certains de mes seigneurs ont disparu. Je pensais envoyer une armée là-bas "
-"immédiatement après avoir fini avec Vakladia... <Tousse>"
+"immédiatement après avoir fini avec Vakladia... (Tousse)"
 
 #. [event]
 #: A_New_Order/scenarios/ano-23macros.cfg:454
@@ -17370,7 +17338,7 @@ msgstr "Paysan"
 #. [unit]: type=Akladian Clanmember, description=$ano_tmp
 #: A_New_Order/scenarios/ano-25.cfg:156
 msgid "Akladian Peasant"
-msgstr "Paysan Akladien"
+msgstr "Paysan akladien"
 
 #. [part]
 #: A_New_Order/scenarios/ano-25.cfg:171
@@ -17805,8 +17773,8 @@ msgid ""
 "she does not want to tell you, neither will I. But be prepared that she may "
 "not be able to fight in battles which await us in future."
 msgstr ""
-"Non, Monsieur. Je pense que je sais ce qui est arrivé à votre belle-mère, "
-"mais si elle ne veut rien vous dire, je ne le ferai pas non plus. Préparez-"
+"Non, Monsieur. Je crois que je sais ce qui est arrivé à votre belle-mère, "
+"mais si elle ne veut rien vous dire, je ne le ferai pas non plus. Attendez-"
 "vous à ce qu'elle ne soit plus capable de participer aux batailles qui nous "
 "attendent."
 
@@ -18118,13 +18086,12 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-26.cfg:166
-#, fuzzy
 msgid ""
 "(To herself) Or rather, they are so afraid of each other that they can't "
 "risk weaken their armies, because the one beloved brother would then cut the "
 "second beloved brother his beloved throat."
 msgstr ""
-"<À elle-même> Ou alors, ils ont si peur l'un de l'autre, qu'ils ne peuvent "
+"(À elle-même) Ou alors, ils ont si peur l'un de l'autre, qu'ils ne peuvent "
 "pas risquer d'affaiblir leur armée parce que le frère bien aimé pourrait "
 "trancher la bien-aimée gorge de l'autre frère bien-aimé."
 
@@ -18144,12 +18111,11 @@ msgstr "Vous avez reçu 200 pièces d'or."
 
 #. [event]
 #: A_New_Order/scenarios/ano-26.cfg:173
-#, fuzzy
 msgid ""
 "(To herself) 200 golden pieces! Wow, I'm impressed. I bet they will be "
 "forced to beg now, losing so ENORMOUS amount of gold."
 msgstr ""
-"<À elle-même> 200 pièces d'or ! Waow, je suis impressionnée. Je parie qu'ils "
+"(À elle-même) 200 pièces d'or ! Waow, je suis impressionnée. Je parie qu'ils "
 "vont être obligés de mendier maintenant, perdre une somme d'or aussi énorme."
 
 #. [scenario]
@@ -18815,9 +18781,8 @@ msgstr ""
 
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:167
-#, fuzzy
 msgid "(whispering to himself) Oh my God, Yaranov..."
-msgstr "<soupirant intérieurement> Oh mon Dieu, Yaranov..."
+msgstr "(Soupirant intérieurement) Oh mon Dieu, Yaranov..."
 
 #. [event]
 #: A_New_Order/scenarios/ano-28.cfg:168
@@ -19229,7 +19194,7 @@ msgstr ""
 #. [label]
 #: A_New_Order/scenarios/ano-30.cfg:74
 msgid "Quests and puzzles solved"
-msgstr ""
+msgstr "Quêtes et énigmes résolues"
 
 #. [event]
 #: A_New_Order/scenarios/ano-30.cfg:77
@@ -19405,36 +19370,33 @@ msgstr "Nombre total de points : $points"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:4
-#, fuzzy
 msgid "race^Akladian"
-msgstr "female^Lady Akladienne"
+msgstr "Akladien"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:5
-#, fuzzy
 msgid "race+female^Akladian"
-msgstr "female^Lady Akladienne"
+msgstr "Akladienne"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:6
-#, fuzzy
 msgid "race^Akladians"
-msgstr "female^Lady Akladienne"
+msgstr "Akladiens"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:57
 msgid "race^Aragwaith"
-msgstr ""
+msgstr "Aragwaith"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:58
 msgid "race+female^Aragwaith"
-msgstr ""
+msgstr "Aragwaithe"
 
 #. [race]
 #: A_New_Order/units/_main.cfg:59
 msgid "race^Aragwaithi"
-msgstr ""
+msgstr "Aragwaiths"
 
 #. [unit]: race=akladian
 #: A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
@@ -19910,7 +19872,7 @@ msgstr "épée d'entraînement"
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Ancient_Banner.cfg:5
 msgid "Ancient Banner"
-msgstr ""
+msgstr "Bannière ancienne"
 
 #. [unit]: race=aragwaith
 #. [female]
@@ -19926,9 +19888,8 @@ msgstr "BESOIN D'UNE DESCRIPTION ICI"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Archer.cfg:5
-#, fuzzy
 msgid "Archer"
-msgstr "Alarice"
+msgstr "Archer"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Archer.cfg:18
@@ -19938,13 +19899,16 @@ msgid ""
 "exception. Their skills with a bow are comparable to those of some elves, "
 "and they are remarkably quick with their daggers."
 msgstr ""
+"Les aragwaithis sont un peuple noble, de constitution fragile, mais que "
+"l'entrainement transforme en une des plus redoutables peuplades de ce monde. "
+"Leurs archers ne font pas exception. Leur habileté à l'arc est comparable à "
+"celle des elfes et ils sont d'une rapidité exceptionnelle avec leurs dagues."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Archer.cfg:84
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:20
-#, fuzzy
 msgid "knife"
-msgstr "Quel couteau ?"
+msgstr "couteau"
 
 #. [attack]: type=pierce
 #: A_New_Order/units/aragwaithi/Greatbow.cfg:71
@@ -19957,17 +19921,17 @@ msgstr "arc"
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Captain.cfg:5
 msgid "Captain"
-msgstr ""
+msgstr "Capitaine"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Flagbearer.cfg:5
 msgid "Flagbearer"
-msgstr ""
+msgstr "Porte-étendard"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Greatbow.cfg:5
 msgid "Greatbow"
-msgstr ""
+msgstr "Grand-arc"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Greatbow.cfg:19
@@ -19980,12 +19944,17 @@ msgid ""
 "pull these bows, anyone but the crafter who attempts to draw it could suffer "
 "serious injury."
 msgstr ""
+"Remplaçant enfin le couteau et la dague par une épée, l'habileté au corps à "
+"corps du grand-arc est intermédiaire entre celle du puissant-arc et celle du "
+"massacreur. Leur arc est toutefois un chef-d'œuvre d'équipement militaire. "
+"Plusieurs mois sont nécessaires pour fabriquer, sur mesure, un seul de ces "
+"arcs. La force incroyable nécessaire pour les bander rend leur utilisation "
+"dangereuse pour tout autre que leur propriétaire."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Guard.cfg:5
-#, fuzzy
 msgid "Guard"
-msgstr "Gur"
+msgstr "Garde"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Guard.cfg:23
@@ -19995,23 +19964,26 @@ msgid ""
 "peace, or on the battlefield in times of war, their role is always the same: "
 "defending the Warlock nobilty."
 msgstr ""
+"Les gardes sont choisis parmi les plus solides des spadassins et renoncent "
+"volontiers à un peu de mobilité pour pouvoir porter des armures lourdes. Que "
+"ce soit durant leurs fonctions honorifiques des temps de paix ou durant "
+"leurs fonctions militaires des temps des guerres, leur rôle reste toujours "
+"le même : protéger les enchanteurs nobles."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Guardian.cfg:5
-#, fuzzy
 msgid "Guardian"
-msgstr "Gari"
+msgstr "Gardien"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Lancer.cfg:5
-#, fuzzy
 msgid "Lancer"
-msgstr "Garde forestier"
+msgstr "Lancier"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Longswordsman.cfg:5
 msgid "Longswordsman"
-msgstr ""
+msgstr "Escrimeur"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Longswordsman.cfg:17
@@ -20022,31 +19994,31 @@ msgid ""
 "adopted a longer blade than the Swordsmen, yet they are able to wield it "
 "with equal grace and skill."
 msgstr ""
+"Malgré le talent supérieur de leurs spadassins, les aragawaithi réservent "
+"toute leur admiration aux escrimeurs. Ces guerriers sont tellement habiles "
+"pour parer et pour frapper d'estoc et de taille qu'ils ont préféré porter "
+"une épée plus longue, toujours et encore maniée avec aisance et grâce."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Longswordsman.cfg:62
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:79
-#, fuzzy
 msgid "longsword"
-msgstr "épée"
+msgstr "épée longue"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Pikeman.cfg:5
-#, fuzzy
 msgid "Pikeman"
-msgstr "Herman-le-vif"
+msgstr "Piquier"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Scout.cfg:5
-#, fuzzy
 msgid "Scout"
-msgstr "Exploration"
+msgstr "Éclaireur"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Shield_Guard.cfg:5
-#, fuzzy
 msgid "Shield Guard"
-msgstr "Garde-bouclier akladien"
+msgstr "Garde bouclier"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Shield_Guard.cfg:23
@@ -20058,16 +20030,22 @@ msgid ""
 "these ancient shields to remind the world and to honor these brave man and "
 "their sacrifice."
 msgstr ""
+"Ces guerriers portent les antiques boucliers de leurs ancêtres qui pouvaient "
+"tenir en ligne lors des grandes batailles, jusqu'à l'arrivée des renforts. "
+"Ceux-ci l'ont payé cher car peu ont survécu et beaucoup sont morts suite à "
+"leurs blessures. Aujourd'hui, seuls les meilleurs guerriers ont le droit de "
+"brandir le bouclier des anciens en hommage à la vie de ces gens courageux, à "
+"leur honneur et à leur sacrifice."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Silver_Shield.cfg:5
 msgid "Silver Shield"
-msgstr ""
+msgstr "Bouclier d'argent"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Slayer.cfg:5
 msgid "Slayer"
-msgstr ""
+msgstr "Massacreur"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Slayer.cfg:21
@@ -20077,17 +20055,20 @@ msgid ""
 "in hand-to-hand combat. He is not as rugged as others of comparable skill, "
 "but far deadlier."
 msgstr ""
+"Alors qu'il ne développe que peu son habileté à l'arc, le massacreur "
+"abandonne le couteau pour s'entrainer au maniement de la vouge et améliore "
+"ainsi sa capacité au combat au corps à corps. Il n'est pas aussi acharné que "
+"d'autres aussi compétents que lui, mais bien plus mortel."
 
 #. [attack]: type=blade
 #: A_New_Order/units/aragwaithi/Slayer.cfg:27
-#, fuzzy
 msgid "glaive"
-msgstr "Alarice"
+msgstr "vouge"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Sorcerer.cfg:5
 msgid "Sorcerer"
-msgstr ""
+msgstr "Sorcier des ténèbres"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Sorcerer.cfg:20
@@ -20109,11 +20090,15 @@ msgid ""
 "knights have found themselves or their mounts impaled on the point of an "
 "Aragwaithi spear."
 msgstr ""
+"Les aragwaiths les plus forts et les moins habiles choisissent la lance. "
+"Dangereuse à la chasse, cette arme est également mortelle sur un champ de "
+"bataille. Beaucoup de chevaliers impétueux se sont retrouvés empalés au bout "
+"d'une lance aragwaith."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:5
 msgid "Strongbow"
-msgstr ""
+msgstr "Puissant-arc"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Strongbow.cfg:35
@@ -20123,12 +20108,15 @@ msgid ""
 "longer than the daggers used by the typical archer, and they wield them far "
 "more effectively."
 msgstr ""
+"Le puissant-arc aragwaith porte un arc puissant et s'entraine presque tout "
+"le temps ; il tire des traits bien plus dangereux que ceux de l'archer moyen "
+"et manie de façon bien plus efficace ses couteaux plus longs que les dagues "
+"de l'archer standard."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:5
-#, fuzzy
 msgid "Swordmaster"
-msgstr "maître d'armes"
+msgstr "Maître des épées"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordmaster.cfg:19
@@ -20141,11 +20129,18 @@ msgid ""
 "young, passing on the proud Aragwaithi martial traditions. Even the Royal "
 "Guards of Wesnoth respect the Swordmasters."
 msgstr ""
+"Les maîtres des épées n'obtiennent pas facilement leur titre. Pendant des "
+"années, ils ont subis un entraînement militaire rigoureux et dû survivre à "
+"de nombreuses et féroces batailles. Leur talent à l'épée terrifie ceux qui "
+"les ont vu se battre et qui ont survécu à la rencontre.\n"
+"Les maîtres des épées sont chargés de l'instruction des nouvelles recrues, "
+"et doivent leur inculquer les fières traditions martiales aragwaithi. Même "
+"les gardes royaux de Wesnoth les respectent."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordsman.cfg:43
 msgid "Swordsman"
-msgstr ""
+msgstr "Spadassin"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Swordsman.cfg:56
@@ -20155,11 +20150,16 @@ msgid ""
 "military, make for superb swordsmen. Swordsmen are clad in light chain mail "
 "- the better to resist the blades of their enemies."
 msgstr ""
+"Élancés, les aragwaiths sont rapides et agiles. Ces caractéristiques, "
+"couplées avec l'entraînement intensif dispensé aux soldats aragwaith, en "
+"font de formidables combattants à l'épée. Les spadassins sont vêtus d'une "
+"cotte de mailles légère, ce qui est le mieux pour résister aux lames "
+"ennemies."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Warlock.cfg:5
 msgid "Aragwaith^Warlock"
-msgstr ""
+msgstr "Enchanteur"
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Warlock.cfg:21
@@ -20169,17 +20169,22 @@ msgid ""
 "and of course in magic. Wielding powerful fire, competent with their staves, "
 "possessing a healing touch, Warlocks are the noblest of a noble people."
 msgstr ""
+"Les aragwaiths prédisposés à la magie reçoivent un entraînement martial, ce "
+"qui est très habituel dans leur société, et apprennent à soigner et à lancer "
+"des sorts. Pouvant lancer de puissantes boules de feu, doués avec leur "
+"bâton, et capables de guérir les autres, les enchanteurs sont les plus "
+"nobles de ce noble peuple."
 
 #. [attack]: type=fire
 #: A_New_Order/units/aragwaithi/Warlock.cfg:37
 #: A_New_Order/units/aragwaithi/Wizard.cfg:36
 msgid "mage-bolt"
-msgstr ""
+msgstr "rayon de magie"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Warlock.cfg:112
 msgid "female^Warlock"
-msgstr ""
+msgstr "Enchanteresse"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Warlock.cfg:115
@@ -20190,17 +20195,21 @@ msgid ""
 "their staves, possessing a healing touch, Warlocks are the noblest of a "
 "noble people."
 msgstr ""
+"Les aragwaithes prédisposées à la magie reçoivent un entraînement martial, "
+"ce qui est très habituel dans leur société, et apprennent à soigner et à "
+"lancer des sorts. Pouvant lancer de puissantes boules de feu, douées avec "
+"leur bâton, et capables de guérir les autres, les enchanteresses sont les "
+"plus nobles de ce noble peuple."
 
 #. [unit]: race=aragwaith
 #: A_New_Order/units/aragwaithi/Wizard.cfg:5
 msgid "Aragwaith^Wizard"
-msgstr ""
+msgstr "Magicien"
 
 #. [female]
 #: A_New_Order/units/aragwaithi/Wizard.cfg:106
-#, fuzzy
 msgid "female^Wizard"
-msgstr "female^Lady Akladienne"
+msgstr "Magicienne"
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Brigand.cfg:5
@@ -20244,18 +20253,18 @@ msgid ""
 "usually just policing the cities and guarding the walls."
 msgstr ""
 "Les milices citoyennes sont formées des habitants des cités Wesnothiennes. "
-"Leur rôle est habituellement de faire la police et de garder les murs."
+"Leur rôle est habituellement de faire la police et de surveiller les "
+"remparts."
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
-msgstr ""
+msgstr "Pas de description. Cette fausse unité n'apparaîtra nulle part."
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:5
-#, fuzzy
 msgid "Outlaw Raider"
-msgstr "Base des hors-la-loi."
+msgstr "Pillard hors-la-loi"
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Outlaw_Raider.cfg:33
@@ -20266,18 +20275,22 @@ msgid ""
 "fights most of the time. They also usually build or buy (or steal) a better "
 "crosbow and their accuracy and skill have both improved with practice."
 msgstr ""
+"Après quatre ou cinq vols, un maraudeur toujours en activité aura trouvé "
+"habituellement une épée quelconque. C'est en général un sabre, car leurs "
+"proies les plus habituelles sont souvent les bretteurs vagabondant sur les "
+"routes secondaire en quête de combats. Ils ont généralement aussi pris le "
+"temps de fabriquer, d'acheter ou de voler une meilleure arbalète, et la "
+"pratique a amélioré leur habileté et leur précision."
 
 #. [attack]: type=blade
 #: A_New_Order/units/others/Outlaw_Raider.cfg:37
-#, fuzzy
 msgid "sabre"
-msgstr "Karen"
+msgstr "sabre"
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:5
-#, fuzzy
 msgid "Peasant girl"
-msgstr "Paysan"
+msgstr "Paysanne"
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Peasant_girl.cfg:25
@@ -20285,6 +20298,8 @@ msgid ""
 "The young girl. She cannot fight, she cannot even defend herself. She "
 "appears only once in one scenario."
 msgstr ""
+"La jeune fille. Elle ne peut ni combattre, ni même se défendre toute seule. "
+"Elle n'apparaît qu'une fois, dans un seul scénario. "
 
 #. [unit]: race=human
 #: A_New_Order/units/others/Ruvio.cfg:21
@@ -20312,9 +20327,8 @@ msgstr ""
 
 #. [unit]: race=orc
 #: A_New_Order/units/others/Shaman.cfg:5
-#, fuzzy
 msgid "Orcish Shaman"
-msgstr "Chaman elfe"
+msgstr "Chaman orc"
 
 #. [unit]: race=orc
 #: A_New_Order/units/others/Shaman.cfg:20
@@ -20326,12 +20340,17 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Les chamans orcs sont les gardiens de la magie orc. Très respectés, ils "
+"forment le Conseil des Orcs, qui prend des décisions importantes et arbitre "
+"les nombreux conflits qui surgissent entre les tribus de cette race "
+"turbulente. Bien que physiquement fragiles (pour des orcs), les chamans orcs "
+"sont de bons lanceurs de sorts et peuvent maudire leur ennemis, drainant "
+"leur vie."
 
 #. [attack]: type=cold
 #: A_New_Order/units/others/Shaman.cfg:34
-#, fuzzy
 msgid "curse"
-msgstr "soin"
+msgstr "malédiction"
 
 #~ msgid ""
 #~ " The campaign is not intended for underaged. It contains elements making "
