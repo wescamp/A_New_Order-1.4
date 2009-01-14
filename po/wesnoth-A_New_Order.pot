@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-07-07 22:32+0200\n"
+"POT-Creation-Date: 2008-12-15 22:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,32 +10,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:30
 msgid "A New Order"
 msgstr ""
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:31
 msgid "ANO"
 msgstr ""
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:37
 msgid "Trivial"
 msgstr ""
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:37
 msgid "Impossible"
 msgstr ""
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:37
 msgid "Normal"
 msgstr ""
 
-#. [campaign]
+#. [campaign]: id=A_New_Order
 #: ./A_New_Order/_main.cfg:44
 msgid ""
 "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over the people dreaming about old legends. Can Gawen Hagarthen unite them all against the common danger?\n"
@@ -226,9 +226,9 @@ msgstr ""
 msgid "The unit $ano_loyal[0].user_description became LOYAL."
 msgstr ""
 
+#. [scenario]: id=ano_10
 #. [then]
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-09.cfg:485 ./A_New_Order/scenarios/ano-10.cfg:25 ./A_New_Order/macros/ano_macros.cfg:680 ./A_New_Order/macros/ano_macros.cfg:683
+#: ./A_New_Order/macros/ano_macros.cfg:680 ./A_New_Order/macros/ano_macros.cfg:683 ./A_New_Order/scenarios/ano-10.cfg:25 ./A_New_Order/scenarios/ano-09.cfg:485
 msgid "loyal"
 msgstr ""
 
@@ -321,9 +321,9 @@ msgstr ""
 msgid "A month? Are you sure it's more than a month?"
 msgstr ""
 
-#. [event]
 #. [then]
-#: ./A_New_Order/scenarios/ano-14a.cfg:279 ./A_New_Order/scenarios/ano-02.cfg:569 ./A_New_Order/scenarios/ano-07.cfg:492 ./A_New_Order/macros/conversations.cfg:46
+#. [event]
+#: ./A_New_Order/macros/conversations.cfg:46 ./A_New_Order/scenarios/ano-02.cfg:569 ./A_New_Order/scenarios/ano-07.cfg:492 ./A_New_Order/scenarios/ano-14a.cfg:279
 msgid "What?"
 msgstr ""
 
@@ -414,7 +414,7 @@ msgstr ""
 msgid "My lord, I fought with you so many battles.. I can accept money from you no more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_start
 #: ./A_New_Order/scenarios/ano-01.cfg:14
 msgid "Breaking the Circle"
 msgstr ""
@@ -459,18 +459,18 @@ msgstr ""
 msgid "And now you lie here, defenseless and vulnerable. Your father's death has shown me how weak my position was and how despised you were along with your father. Behind your back they call you a mixling, a bastard, a creature not fit to sit on the throne. And as for me.. if you die, I would be just a wife of a despised king, stepmother of an hated heir; I will have no right to live. If I had given birth, I would be your mortal enemy, but I had not. I know there was a lot of ill feeling between us, but now I am the only one you can trust and you are my only hope..."
 msgstr ""
 
-#. [side]: description=Gawen Hagarthen, type=Hagarthen
-#. [side]: description=Gawen Hagarthen, type=Young Hagarthen
-#. [event]
 #. [side]: description=Gawen Hagarthen, type=Akladian Lady
-#: ./A_New_Order/scenarios/ano-23macros.cfg:92 ./A_New_Order/scenarios/ano-07x.cfg:12 ./A_New_Order/scenarios/ano-11x.cfg:13 ./A_New_Order/scenarios/ano-14a.cfg:41 ./A_New_Order/scenarios/ano-14b.cfg:60 ./A_New_Order/scenarios/ano-14c.cfg:23 ./A_New_Order/scenarios/ano-14d.cfg:31 ./A_New_Order/scenarios/ano-14e.cfg:63 ./A_New_Order/scenarios/ano-15a.cfg:27 ./A_New_Order/scenarios/ano-15b.cfg:24 ./A_New_Order/scenarios/ano-19a.cfg:30 ./A_New_Order/scenarios/ano-19b.cfg:30 ./A_New_Order/scenarios/ano-19c.cfg:40 ./A_New_Order/scenarios/ano-21a.cfg:102 ./A_New_Order/scenarios/ano-21b.cfg:25 ./A_New_Order/scenarios/ano-21c.cfg:85 ./A_New_Order/scenarios/ano-21d.cfg:52 ./A_New_Order/scenarios/ano-01.cfg:71 ./A_New_Order/scenarios/ano-02.cfg:60 ./A_New_Order/scenarios/ano-03.cfg:43 ./A_New_Order/scenarios/ano-04.cfg:30 ./A_New_Order/scenarios/ano-07.cfg:28 ./A_New_Order/scenarios/ano-08.cfg:24 ./A_New_Order/scenarios/ano-11.cfg:25 ./A_New_Order/scenarios/ano-12.cfg:66 ./A_New_Order/scenarios/ano-13.cfg:228 ./A_New_Order/scenarios/ano-15.cfg:32 ./A_New_Order/scenarios/ano-16.cfg:46 ./A_New_Order/scenarios/ano-17.cfg:133 ./A_New_Order/scenarios/ano-18.cfg:34 ./A_New_Order/scenarios/ano-18.cfg:224 ./A_New_Order/scenarios/ano-20.cfg:59 ./A_New_Order/scenarios/ano-22.cfg:118 ./A_New_Order/scenarios/ano-24.cfg:58 ./A_New_Order/scenarios/ano-25.cfg:202 ./A_New_Order/scenarios/ano-26.cfg:41 ./A_New_Order/scenarios/ano-27.cfg:27 ./A_New_Order/scenarios/ano-28.cfg:38 ./A_New_Order/scenarios/ano-29.cfg:97 ./A_New_Order/scenarios/ano-30.cfg:61
+#. [side]: description=Gawen Hagarthen, type=Young Hagarthen
+#. [side]: description=Gawen Hagarthen, type=Hagarthen
+#. [event]
+#: ./A_New_Order/scenarios/ano-30.cfg:61 ./A_New_Order/scenarios/ano-12.cfg:66 ./A_New_Order/scenarios/ano-28.cfg:38 ./A_New_Order/scenarios/ano-29.cfg:97 ./A_New_Order/scenarios/ano-02.cfg:60 ./A_New_Order/scenarios/ano-15a.cfg:27 ./A_New_Order/scenarios/ano-04.cfg:30 ./A_New_Order/scenarios/ano-07.cfg:28 ./A_New_Order/scenarios/ano-21d.cfg:52 ./A_New_Order/scenarios/ano-07x.cfg:12 ./A_New_Order/scenarios/ano-20.cfg:59 ./A_New_Order/scenarios/ano-14d.cfg:31 ./A_New_Order/scenarios/ano-17.cfg:133 ./A_New_Order/scenarios/ano-23macros.cfg:92 ./A_New_Order/scenarios/ano-21c.cfg:85 ./A_New_Order/scenarios/ano-27.cfg:27 ./A_New_Order/scenarios/ano-14b.cfg:60 ./A_New_Order/scenarios/ano-25.cfg:202 ./A_New_Order/scenarios/ano-22.cfg:118 ./A_New_Order/scenarios/ano-19a.cfg:30 ./A_New_Order/scenarios/ano-16.cfg:46 ./A_New_Order/scenarios/ano-26.cfg:41 ./A_New_Order/scenarios/ano-13.cfg:228 ./A_New_Order/scenarios/ano-11.cfg:25 ./A_New_Order/scenarios/ano-24.cfg:58 ./A_New_Order/scenarios/ano-21b.cfg:25 ./A_New_Order/scenarios/ano-14c.cfg:23 ./A_New_Order/scenarios/ano-08.cfg:24 ./A_New_Order/scenarios/ano-19c.cfg:40 ./A_New_Order/scenarios/ano-15b.cfg:24 ./A_New_Order/scenarios/ano-01.cfg:71 ./A_New_Order/scenarios/ano-21a.cfg:102 ./A_New_Order/scenarios/ano-11x.cfg:13 ./A_New_Order/scenarios/ano-18.cfg:34 ./A_New_Order/scenarios/ano-18.cfg:224 ./A_New_Order/scenarios/ano-15.cfg:32 ./A_New_Order/scenarios/ano-19b.cfg:30 ./A_New_Order/scenarios/ano-14a.cfg:41 ./A_New_Order/scenarios/ano-03.cfg:43 ./A_New_Order/scenarios/ano-14e.cfg:63
 msgid "Gawen Hagarthen"
 msgstr ""
 
 #. [side]: description=Lady Lorin, type=Akladian Lady
-#. [unit]: description=Lady Lorin, type=Akladian Lady
 #. [side]: type=Akladian Lady, description=Lady Lorin
-#: ./A_New_Order/scenarios/ano-05a.cfg:26 ./A_New_Order/scenarios/ano-05b.cfg:25 ./A_New_Order/scenarios/ano-09x.cfg:13 ./A_New_Order/scenarios/ano-01.cfg:81 ./A_New_Order/scenarios/ano-06.cfg:23 ./A_New_Order/scenarios/ano-09.cfg:40 ./A_New_Order/scenarios/ano-10.cfg:55 ./A_New_Order/scenarios/ano-05ax.cfg:18 ./A_New_Order/scenarios/ano-05bx.cfg:18
+#. [unit]: description=Lady Lorin, type=Akladian Lady
+#: ./A_New_Order/scenarios/ano-06.cfg:23 ./A_New_Order/scenarios/ano-10.cfg:55 ./A_New_Order/scenarios/ano-05ax.cfg:18 ./A_New_Order/scenarios/ano-05b.cfg:25 ./A_New_Order/scenarios/ano-09.cfg:40 ./A_New_Order/scenarios/ano-01.cfg:81 ./A_New_Order/scenarios/ano-05bx.cfg:18 ./A_New_Order/scenarios/ano-09x.cfg:13 ./A_New_Order/scenarios/ano-05a.cfg:26
 msgid "Lady Lorin"
 msgstr ""
 
@@ -531,10 +531,10 @@ msgstr ""
 msgid "Militiaman"
 msgstr ""
 
+#. [unit]: description=Assassin, type=Thief, type=Rogue, type=Assassin
 #. [side]: description=Assassin
 #. [unit]: description=Assassin
-#. [unit]: description=Assassin, type=Thief, type=Rogue, type=Assassin
-#: ./A_New_Order/scenarios/ano-01.cfg:351 ./A_New_Order/scenarios/ano-01.cfg:463 ./A_New_Order/scenarios/ano-02.cfg:507
+#: ./A_New_Order/scenarios/ano-02.cfg:507 ./A_New_Order/scenarios/ano-01.cfg:351 ./A_New_Order/scenarios/ano-01.cfg:463
 msgid "Assassin"
 msgstr ""
 
@@ -615,17 +615,17 @@ msgid "Reach the enemy keep with Gawen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-23macros.cfg:595 ./A_New_Order/scenarios/ano-15b.cfg:84 ./A_New_Order/scenarios/ano-19a.cfg:143 ./A_New_Order/scenarios/ano-19b.cfg:130 ./A_New_Order/scenarios/ano-19c.cfg:744 ./A_New_Order/scenarios/ano-21a.cfg:262 ./A_New_Order/scenarios/ano-21a.cfg:290 ./A_New_Order/scenarios/ano-21b.cfg:133 ./A_New_Order/scenarios/ano-21b.cfg:158 ./A_New_Order/scenarios/ano-14macros.cfg:8 ./A_New_Order/scenarios/ano-01.cfg:438 ./A_New_Order/scenarios/ano-02.cfg:329 ./A_New_Order/scenarios/ano-04.cfg:206 ./A_New_Order/scenarios/ano-07.cfg:265 ./A_New_Order/scenarios/ano-08.cfg:149 ./A_New_Order/scenarios/ano-12.cfg:189 ./A_New_Order/scenarios/ano-17.cfg:325 ./A_New_Order/scenarios/ano-22.cfg:341 ./A_New_Order/scenarios/ano-25.cfg:436 ./A_New_Order/scenarios/ano-27.cfg:585 ./A_New_Order/scenarios/ano-27.cfg:837
+#: ./A_New_Order/scenarios/ano-12.cfg:189 ./A_New_Order/scenarios/ano-02.cfg:329 ./A_New_Order/scenarios/ano-04.cfg:206 ./A_New_Order/scenarios/ano-07.cfg:265 ./A_New_Order/scenarios/ano-17.cfg:325 ./A_New_Order/scenarios/ano-23macros.cfg:595 ./A_New_Order/scenarios/ano-27.cfg:585 ./A_New_Order/scenarios/ano-27.cfg:837 ./A_New_Order/scenarios/ano-14macros.cfg:8 ./A_New_Order/scenarios/ano-25.cfg:436 ./A_New_Order/scenarios/ano-22.cfg:341 ./A_New_Order/scenarios/ano-19a.cfg:143 ./A_New_Order/scenarios/ano-21b.cfg:133 ./A_New_Order/scenarios/ano-21b.cfg:158 ./A_New_Order/scenarios/ano-08.cfg:149 ./A_New_Order/scenarios/ano-19c.cfg:744 ./A_New_Order/scenarios/ano-15b.cfg:84 ./A_New_Order/scenarios/ano-01.cfg:438 ./A_New_Order/scenarios/ano-21a.cfg:262 ./A_New_Order/scenarios/ano-21a.cfg:290 ./A_New_Order/scenarios/ano-19b.cfg:130
 msgid "Death of Gawen Hagarthen"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-05a.cfg:107 ./A_New_Order/scenarios/ano-05b.cfg:108 ./A_New_Order/scenarios/ano-23macros.cfg:603 ./A_New_Order/scenarios/ano-19c.cfg:752 ./A_New_Order/scenarios/ano-21a.cfg:270 ./A_New_Order/scenarios/ano-21a.cfg:298 ./A_New_Order/scenarios/ano-21b.cfg:141 ./A_New_Order/scenarios/ano-21b.cfg:166 ./A_New_Order/scenarios/ano-14macros.cfg:18 ./A_New_Order/scenarios/ano-01.cfg:442 ./A_New_Order/scenarios/ano-02.cfg:333 ./A_New_Order/scenarios/ano-04.cfg:210 ./A_New_Order/scenarios/ano-09.cfg:140 ./A_New_Order/scenarios/ano-10.cfg:182 ./A_New_Order/scenarios/ano-01_06macros.cfg:189 ./A_New_Order/scenarios/ano-17.cfg:333 ./A_New_Order/scenarios/ano-22.cfg:349 ./A_New_Order/scenarios/ano-25.cfg:444 ./A_New_Order/scenarios/ano-27.cfg:589 ./A_New_Order/scenarios/ano-27.cfg:841
+#: ./A_New_Order/scenarios/ano-02.cfg:333 ./A_New_Order/scenarios/ano-10.cfg:182 ./A_New_Order/scenarios/ano-04.cfg:210 ./A_New_Order/scenarios/ano-17.cfg:333 ./A_New_Order/scenarios/ano-23macros.cfg:603 ./A_New_Order/scenarios/ano-01_06macros.cfg:189 ./A_New_Order/scenarios/ano-27.cfg:589 ./A_New_Order/scenarios/ano-27.cfg:841 ./A_New_Order/scenarios/ano-14macros.cfg:18 ./A_New_Order/scenarios/ano-25.cfg:444 ./A_New_Order/scenarios/ano-22.cfg:349 ./A_New_Order/scenarios/ano-05b.cfg:108 ./A_New_Order/scenarios/ano-09.cfg:140 ./A_New_Order/scenarios/ano-21b.cfg:141 ./A_New_Order/scenarios/ano-21b.cfg:166 ./A_New_Order/scenarios/ano-19c.cfg:752 ./A_New_Order/scenarios/ano-01.cfg:442 ./A_New_Order/scenarios/ano-21a.cfg:270 ./A_New_Order/scenarios/ano-21a.cfg:298 ./A_New_Order/scenarios/ano-05a.cfg:107
 msgid "Death of Lady Lorin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-05a.cfg:111 ./A_New_Order/scenarios/ano-05b.cfg:112 ./A_New_Order/scenarios/ano-01.cfg:446 ./A_New_Order/scenarios/ano-02.cfg:337 ./A_New_Order/scenarios/ano-04.cfg:214 ./A_New_Order/scenarios/ano-01_06macros.cfg:193
+#: ./A_New_Order/scenarios/ano-02.cfg:337 ./A_New_Order/scenarios/ano-04.cfg:214 ./A_New_Order/scenarios/ano-01_06macros.cfg:193 ./A_New_Order/scenarios/ano-05b.cfg:112 ./A_New_Order/scenarios/ano-01.cfg:446 ./A_New_Order/scenarios/ano-05a.cfg:111
 msgid "Death of Reme Carrenemoe"
 msgstr ""
 
@@ -973,7 +973,7 @@ msgstr ""
 msgid "Take her to the safety, people."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_2
 #: ./A_New_Order/scenarios/ano-02.cfg:3
 msgid "Fighting for pass"
 msgstr ""
@@ -1078,9 +1078,9 @@ msgstr ""
 msgid " I've sent an envoy to Gaeltin Hyer, a city which is on our way, to prepare rooms for us. I think, my lord, you have to get some rest before continuing our journey."
 msgstr ""
 
-#. [unit]: description=Messenger, type=Akladian Homeguard
 #. [unit]: type=Akladian Clanmember, description=Messenger
-#: ./A_New_Order/scenarios/ano-23macros.cfg:337 ./A_New_Order/scenarios/ano-02.cfg:279
+#. [unit]: description=Messenger, type=Akladian Homeguard
+#: ./A_New_Order/scenarios/ano-02.cfg:279 ./A_New_Order/scenarios/ano-23macros.cfg:337
 msgid "Messenger"
 msgstr ""
 
@@ -1289,7 +1289,7 @@ msgstr ""
 msgid "Ah, he is using the Sturmknights. Be careful about them, Gawen. They like to fight during nights and they are used to darkness. Counter them with Shieldguard at days."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_3
 #: ./A_New_Order/scenarios/ano-03.cfg:3
 msgid "Conversation"
 msgstr ""
@@ -1315,18 +1315,18 @@ msgid "Royal guard"
 msgstr ""
 
 #. [side]: description=Graeme O Borraine, type=Akladian Lord
-#: ./A_New_Order/scenarios/ano-03.cfg:67 ./A_New_Order/scenarios/ano-26.cfg:51 ./A_New_Order/scenarios/ano-28.cfg:48
+#: ./A_New_Order/scenarios/ano-28.cfg:48 ./A_New_Order/scenarios/ano-26.cfg:51 ./A_New_Order/scenarios/ano-03.cfg:67
 msgid "Graeme O Borraine"
 msgstr ""
 
 #. [side]: description=Bor Cryne, type=Akladian Lord
 #. [unit]: type=Akladian Lord, description=Bor Cryne
-#: ./A_New_Order/scenarios/ano-03.cfg:76 ./A_New_Order/scenarios/ano-04.cfg:68 ./A_New_Order/scenarios/ano-25.cfg:476 ./A_New_Order/scenarios/ano-27.cfg:68
+#: ./A_New_Order/scenarios/ano-04.cfg:68 ./A_New_Order/scenarios/ano-27.cfg:68 ./A_New_Order/scenarios/ano-25.cfg:476 ./A_New_Order/scenarios/ano-03.cfg:76
 msgid "Bor Cryne"
 msgstr ""
 
 #. [side]: description=Uri van Roe, type=Akladian Lord
-#: ./A_New_Order/scenarios/ano-03.cfg:85 ./A_New_Order/scenarios/ano-04.cfg:93 ./A_New_Order/scenarios/ano-27.cfg:149
+#: ./A_New_Order/scenarios/ano-04.cfg:93 ./A_New_Order/scenarios/ano-27.cfg:149 ./A_New_Order/scenarios/ano-03.cfg:85
 msgid "Uri van Roe"
 msgstr ""
 
@@ -1430,9 +1430,9 @@ msgstr ""
 msgid "And you, noble Graeme?"
 msgstr ""
 
-#. [event]
 #. [option]: speaker=Gawen Hagarthen
-#: ./A_New_Order/scenarios/ano-03.cfg:197 ./A_New_Order/scenarios/ano-08.cfg:290
+#. [event]
+#: ./A_New_Order/scenarios/ano-08.cfg:290 ./A_New_Order/scenarios/ano-03.cfg:197
 msgid "Uri van Roe?"
 msgstr ""
 
@@ -1441,9 +1441,9 @@ msgstr ""
 msgid "Hail the true king of Vakladia"
 msgstr ""
 
-#. [event]
 #. [option]: speaker=Gawen Hagarthen
-#: ./A_New_Order/scenarios/ano-03.cfg:205 ./A_New_Order/scenarios/ano-08.cfg:296
+#. [event]
+#: ./A_New_Order/scenarios/ano-08.cfg:296 ./A_New_Order/scenarios/ano-03.cfg:205
 msgid "Bor Cryne?"
 msgstr ""
 
@@ -1457,7 +1457,7 @@ msgstr ""
 msgid "To ensure you of our friendship I demand that each of you will send your first-born son to court of Vattin, where he would have possibility to learn how to best serve the crown. "
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_4
 #: ./A_New_Order/scenarios/ano-04.cfg:3
 msgid "Battle of Barnon"
 msgstr ""
@@ -1478,17 +1478,17 @@ msgid "It was this moment when Gawen realized that he was as hated by Wesnothian
 msgstr ""
 
 #. [side]: description=Hoyre O Barnone, type=Akladian Lord
-#: ./A_New_Order/scenarios/ano-14a.cfg:82 ./A_New_Order/scenarios/ano-04.cfg:40 ./A_New_Order/scenarios/ano-25.cfg:276
+#: ./A_New_Order/scenarios/ano-04.cfg:40 ./A_New_Order/scenarios/ano-25.cfg:276 ./A_New_Order/scenarios/ano-14a.cfg:82
 msgid "Hoyre O Barnone"
 msgstr ""
 
 #. [label]
-#: ./A_New_Order/scenarios/ano-14a.cfg:153 ./A_New_Order/scenarios/ano-04.cfg:120
+#: ./A_New_Order/scenarios/ano-04.cfg:120 ./A_New_Order/scenarios/ano-14a.cfg:153
 msgid "Castle of Barnon"
 msgstr ""
 
 #. [label]
-#: ./A_New_Order/scenarios/ano-14a.cfg:157 ./A_New_Order/scenarios/ano-04.cfg:124
+#: ./A_New_Order/scenarios/ano-04.cfg:124 ./A_New_Order/scenarios/ano-14a.cfg:157
 msgid "City of Barnon"
 msgstr ""
 
@@ -1503,7 +1503,7 @@ msgid "If I may, my lord, I suggest not to hurry."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14b.cfg:484 ./A_New_Order/scenarios/ano-14e.cfg:249 ./A_New_Order/scenarios/ano-15a.cfg:194 ./A_New_Order/scenarios/ano-04.cfg:177 ./A_New_Order/scenarios/ano-13.cfg:293 ./A_New_Order/scenarios/ano-18.cfg:269 ./A_New_Order/scenarios/ano-18.cfg:367
+#: ./A_New_Order/scenarios/ano-15a.cfg:194 ./A_New_Order/scenarios/ano-04.cfg:177 ./A_New_Order/scenarios/ano-14b.cfg:484 ./A_New_Order/scenarios/ano-13.cfg:293 ./A_New_Order/scenarios/ano-18.cfg:269 ./A_New_Order/scenarios/ano-18.cfg:367 ./A_New_Order/scenarios/ano-14e.cfg:249
 msgid "Why?"
 msgstr ""
 
@@ -1533,7 +1533,7 @@ msgid "I am not sure whether we have enough gold for this endeavor. I wish we'd 
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/ano-05a.cfg:103 ./A_New_Order/scenarios/ano-05b.cfg:104 ./A_New_Order/scenarios/ano-14d.cfg:128 ./A_New_Order/scenarios/ano-14d.cfg:139 ./A_New_Order/scenarios/ano-14e.cfg:167 ./A_New_Order/scenarios/ano-14e.cfg:178 ./A_New_Order/scenarios/ano-15b.cfg:76 ./A_New_Order/scenarios/ano-19c.cfg:736 ./A_New_Order/scenarios/ano-21b.cfg:129 ./A_New_Order/scenarios/ano-21b.cfg:154 ./A_New_Order/scenarios/ano-04.cfg:202 ./A_New_Order/scenarios/ano-25.cfg:432 ./A_New_Order/scenarios/ano-27.cfg:581 ./A_New_Order/scenarios/ano-27.cfg:833
+#: ./A_New_Order/scenarios/ano-04.cfg:202 ./A_New_Order/scenarios/ano-14d.cfg:128 ./A_New_Order/scenarios/ano-14d.cfg:139 ./A_New_Order/scenarios/ano-27.cfg:581 ./A_New_Order/scenarios/ano-27.cfg:833 ./A_New_Order/scenarios/ano-25.cfg:432 ./A_New_Order/scenarios/ano-05b.cfg:104 ./A_New_Order/scenarios/ano-21b.cfg:129 ./A_New_Order/scenarios/ano-21b.cfg:154 ./A_New_Order/scenarios/ano-19c.cfg:736 ./A_New_Order/scenarios/ano-15b.cfg:76 ./A_New_Order/scenarios/ano-05a.cfg:103 ./A_New_Order/scenarios/ano-14e.cfg:167 ./A_New_Order/scenarios/ano-14e.cfg:178
 msgid "Kill all enemy leaders"
 msgstr ""
 
@@ -1647,8 +1647,9 @@ msgstr ""
 msgid "My lord, we really should try to escape, this battle is impossible to win!"
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-05a.cfg:3 ./A_New_Order/scenarios/ano-05ax.cfg:3
+#. [scenario]: id=ano_5a-x
+#. [scenario]: id=ano_5a
+#: ./A_New_Order/scenarios/ano-05ax.cfg:3 ./A_New_Order/scenarios/ano-05a.cfg:3
 msgid "Unexpected guests"
 msgstr ""
 
@@ -1822,7 +1823,8 @@ msgstr ""
 msgid "I will bury part of gold inside castle of Raumair, along with heads of killed orcs. This should be enough of recompensation for ghosts of my dead friends. You should keep the rest of gold. You will need it."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_5b
+#. [scenario]: id=ano_5b-x
 #: ./A_New_Order/scenarios/ano-05b.cfg:3 ./A_New_Order/scenarios/ano-05bx.cfg:3
 msgid "The swamp things"
 msgstr ""
@@ -1932,9 +1934,9 @@ msgstr ""
 msgid "Seems a fair deal. Show uss.. damned. Show us gold and you may leave."
 msgstr ""
 
-#. [else]
 #. [event]
-#: ./A_New_Order/scenarios/ano-05b.cfg:152 ./A_New_Order/scenarios/ano-05b.cfg:192 ./A_New_Order/scenarios/ano-23macros.cfg:511 ./A_New_Order/scenarios/ano-23macros.cfg:539 ./A_New_Order/scenarios/ano-21b.cfg:233 ./A_New_Order/scenarios/ano-22.cfg:531 ./A_New_Order/scenarios/ano-25.cfg:633 ./A_New_Order/scenarios/ano-25.cfg:647 ./A_New_Order/scenarios/ano-25.cfg:661 ./A_New_Order/scenarios/ano-20macros.cfg:183 ./A_New_Order/scenarios/ano-20macros.cfg:202 ./A_New_Order/scenarios/ano-20macros.cfg:220 ./A_New_Order/scenarios/ano-20macros.cfg:239 ./A_New_Order/scenarios/ano-20macros.cfg:258 ./A_New_Order/scenarios/ano-20macros.cfg:274 ./A_New_Order/scenarios/ano-20macros.cfg:289
+#. [else]
+#: ./A_New_Order/scenarios/ano-23macros.cfg:511 ./A_New_Order/scenarios/ano-23macros.cfg:539 ./A_New_Order/scenarios/ano-25.cfg:633 ./A_New_Order/scenarios/ano-25.cfg:647 ./A_New_Order/scenarios/ano-25.cfg:661 ./A_New_Order/scenarios/ano-22.cfg:531 ./A_New_Order/scenarios/ano-05b.cfg:152 ./A_New_Order/scenarios/ano-05b.cfg:192 ./A_New_Order/scenarios/ano-20macros.cfg:183 ./A_New_Order/scenarios/ano-20macros.cfg:202 ./A_New_Order/scenarios/ano-20macros.cfg:220 ./A_New_Order/scenarios/ano-20macros.cfg:239 ./A_New_Order/scenarios/ano-20macros.cfg:258 ./A_New_Order/scenarios/ano-20macros.cfg:274 ./A_New_Order/scenarios/ano-20macros.cfg:289 ./A_New_Order/scenarios/ano-21b.cfg:233
 msgid "You have received 50 gold pieces"
 msgstr ""
 
@@ -1958,7 +1960,7 @@ msgstr ""
 msgid "You have received 150 gold pieces"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_6
 #: ./A_New_Order/scenarios/ano-06.cfg:3
 msgid "Separation"
 msgstr ""
@@ -2028,8 +2030,9 @@ msgstr ""
 msgid "You had nor choosen, nor recruited five soldiers. I hope you know what you are doing, since in future it may be hard to find battle-hardened units. Or, for that matter, Akladians."
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-07x.cfg:3 ./A_New_Order/scenarios/ano-07.cfg:3
+#. [scenario]: id=ano_7
+#. [scenario]: id=ano_7x
+#: ./A_New_Order/scenarios/ano-07.cfg:3 ./A_New_Order/scenarios/ano-07x.cfg:3
 msgid "Ally from the past"
 msgstr ""
 
@@ -2043,17 +2046,17 @@ msgstr ""
 msgid "I do not mean he was old. He just seemed like he saw a lot in his life, his face was bringing memories of old battles and wars, many of them lost. He looked a bit familiar. He was, as my step-mother would call him, ungodly underling. Wesnothian in other words. I wasn't sure whether this was good or bad thing, remembering how much those folks hated Akladians."
 msgstr ""
 
+#. [unit]: id=Ruvio, race=human
 #. [unit]: description=Ruvio, type=Ruvio
 #. [event]
-#. [unit]: race=human
-#: ./A_New_Order/scenarios/ano-07.cfg:36 ./A_New_Order/scenarios/ano-13.cfg:533 ./A_New_Order/scenarios/ano-13.cfg:543 ./A_New_Order/scenarios/ano-13.cfg:554 ./A_New_Order/scenarios/ano-13.cfg:562 ./A_New_Order/scenarios/ano-18.cfg:465 ./A_New_Order/scenarios/ano-18.cfg:473 ./A_New_Order/scenarios/ano-20.cfg:400 ./A_New_Order/scenarios/ano-20.cfg:409 ./A_New_Order/scenarios/ano-20.cfg:419 ./A_New_Order/scenarios/ano-20.cfg:427 ./A_New_Order/units/others/Ruvio.cfg:4
+#: ./A_New_Order/units/others/Ruvio.cfg:4 ./A_New_Order/scenarios/ano-07.cfg:36 ./A_New_Order/scenarios/ano-20.cfg:400 ./A_New_Order/scenarios/ano-20.cfg:409 ./A_New_Order/scenarios/ano-20.cfg:419 ./A_New_Order/scenarios/ano-20.cfg:427 ./A_New_Order/scenarios/ano-13.cfg:533 ./A_New_Order/scenarios/ano-13.cfg:543 ./A_New_Order/scenarios/ano-13.cfg:554 ./A_New_Order/scenarios/ano-13.cfg:562 ./A_New_Order/scenarios/ano-18.cfg:465 ./A_New_Order/scenarios/ano-18.cfg:473
 msgid "Ruvio"
 msgstr ""
 
+#. [unit]: id=Ruvios Daughter, race=human
 #. [unit]: description=Karen, type=Ruvios Daughter
 #. [event]
-#. [unit]: race=human
-#: ./A_New_Order/scenarios/ano-07.cfg:46 ./A_New_Order/scenarios/ano-13.cfg:534 ./A_New_Order/scenarios/ano-13.cfg:544 ./A_New_Order/scenarios/ano-13.cfg:555 ./A_New_Order/scenarios/ano-13.cfg:563 ./A_New_Order/units/others/Ruvios_Daughter.cfg:4
+#: ./A_New_Order/units/others/Ruvios_Daughter.cfg:4 ./A_New_Order/scenarios/ano-07.cfg:46 ./A_New_Order/scenarios/ano-13.cfg:534 ./A_New_Order/scenarios/ano-13.cfg:544 ./A_New_Order/scenarios/ano-13.cfg:555 ./A_New_Order/scenarios/ano-13.cfg:563
 msgid "Karen"
 msgstr ""
 
@@ -2168,12 +2171,12 @@ msgid "Kill enemy leader and all enemy units. Don't allow any enemy unit to reac
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-15b.cfg:80 ./A_New_Order/scenarios/ano-19a.cfg:147 ./A_New_Order/scenarios/ano-19b.cfg:134 ./A_New_Order/scenarios/ano-19c.cfg:748 ./A_New_Order/scenarios/ano-21a.cfg:266 ./A_New_Order/scenarios/ano-21a.cfg:294 ./A_New_Order/scenarios/ano-21b.cfg:137 ./A_New_Order/scenarios/ano-21b.cfg:162 ./A_New_Order/scenarios/ano-14macros.cfg:4 ./A_New_Order/scenarios/ano-07.cfg:269 ./A_New_Order/scenarios/ano-08.cfg:153 ./A_New_Order/scenarios/ano-12.cfg:197 ./A_New_Order/scenarios/ano-17.cfg:329 ./A_New_Order/scenarios/ano-25.cfg:440 ./A_New_Order/scenarios/ano-27.cfg:597 ./A_New_Order/scenarios/ano-27.cfg:849
+#: ./A_New_Order/scenarios/ano-12.cfg:197 ./A_New_Order/scenarios/ano-07.cfg:269 ./A_New_Order/scenarios/ano-17.cfg:329 ./A_New_Order/scenarios/ano-27.cfg:597 ./A_New_Order/scenarios/ano-27.cfg:849 ./A_New_Order/scenarios/ano-14macros.cfg:4 ./A_New_Order/scenarios/ano-25.cfg:440 ./A_New_Order/scenarios/ano-19a.cfg:147 ./A_New_Order/scenarios/ano-21b.cfg:137 ./A_New_Order/scenarios/ano-21b.cfg:162 ./A_New_Order/scenarios/ano-08.cfg:153 ./A_New_Order/scenarios/ano-19c.cfg:748 ./A_New_Order/scenarios/ano-15b.cfg:80 ./A_New_Order/scenarios/ano-21a.cfg:266 ./A_New_Order/scenarios/ano-21a.cfg:294 ./A_New_Order/scenarios/ano-19b.cfg:134
 msgid "Death of Ruvio"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-15b.cfg:88 ./A_New_Order/scenarios/ano-14macros.cfg:12 ./A_New_Order/scenarios/ano-07.cfg:273 ./A_New_Order/scenarios/ano-08.cfg:157 ./A_New_Order/scenarios/ano-12.cfg:193
+#: ./A_New_Order/scenarios/ano-12.cfg:193 ./A_New_Order/scenarios/ano-07.cfg:273 ./A_New_Order/scenarios/ano-14macros.cfg:12 ./A_New_Order/scenarios/ano-08.cfg:157 ./A_New_Order/scenarios/ano-15b.cfg:88
 msgid "Death of Karen"
 msgstr ""
 
@@ -2327,7 +2330,7 @@ msgstr ""
 msgid "If you want, I may teach you few things."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_8
 #: ./A_New_Order/scenarios/ano-08.cfg:3
 msgid "Outlaw Base"
 msgstr ""
@@ -2587,9 +2590,9 @@ msgstr ""
 msgid "The guy from city of Barnon? No, though from what I've heard about him he could do it - if he could think more himself."
 msgstr ""
 
-#. [option]: speaker=Gawen Hagarthen
 #. [event]
-#: ./A_New_Order/scenarios/ano-08.cfg:338 ./A_New_Order/scenarios/ano-20macros.cfg:308
+#. [option]: speaker=Gawen Hagarthen
+#: ./A_New_Order/scenarios/ano-20macros.cfg:308 ./A_New_Order/scenarios/ano-08.cfg:338
 msgid "That's all I wanted to know"
 msgstr ""
 
@@ -2624,12 +2627,13 @@ msgid "It seems that Outlaws had small hidden treasury here."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-08.cfg:432 ./A_New_Order/scenarios/ano-17.cfg:389 ./A_New_Order/scenarios/ano-17.cfg:432
+#: ./A_New_Order/scenarios/ano-17.cfg:389 ./A_New_Order/scenarios/ano-17.cfg:432 ./A_New_Order/scenarios/ano-08.cfg:432
 msgid "You receive 50 golden pieces."
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-09x.cfg:3 ./A_New_Order/scenarios/ano-09.cfg:3
+#. [scenario]: id=ano_9
+#. [scenario]: id=ano_9x
+#: ./A_New_Order/scenarios/ano-09.cfg:3 ./A_New_Order/scenarios/ano-09x.cfg:3
 msgid "Hired Swords"
 msgstr ""
 
@@ -2734,12 +2738,12 @@ msgid "One more reference to underling, and I am leaving, do you understand?"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/ano-09.cfg:132 ./A_New_Order/scenarios/ano-12.cfg:185 ./A_New_Order/scenarios/ano-17.cfg:321
+#: ./A_New_Order/scenarios/ano-12.cfg:185 ./A_New_Order/scenarios/ano-17.cfg:321 ./A_New_Order/scenarios/ano-09.cfg:132
 msgid "Kill all enemy leaders."
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-09.cfg:136 ./A_New_Order/scenarios/ano-10.cfg:178
+#: ./A_New_Order/scenarios/ano-10.cfg:178 ./A_New_Order/scenarios/ano-09.cfg:136
 msgid "Death of Andrey Yaranov"
 msgstr ""
 
@@ -2995,7 +2999,7 @@ msgid "I don't know."
 msgstr ""
 
 #. [message]: speaker=Lady Lorin
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-09.cfg:380 ./A_New_Order/scenarios/ano-13.cfg:82
 msgid "What about this:"
 msgstr ""
@@ -3145,12 +3149,12 @@ msgstr ""
 msgid "They seem to respect you now. Strange."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_10
 #: ./A_New_Order/scenarios/ano-10.cfg:3
 msgid "Siege of Haeltin"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_10
 #: ./A_New_Order/scenarios/ano-10.cfg:24
 msgid "It seems that $ano_loyal[0].user_description was so impressed by Lorin's performance in this siege, that he will fight for her without the need to pay him. He became LOYAL."
 msgstr ""
@@ -3261,7 +3265,7 @@ msgid "We have less than 300 golden pieces. Are you sure we will be able to surv
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/ano-14a.cfg:5 ./A_New_Order/scenarios/ano-14b.cfg:270 ./A_New_Order/scenarios/ano-14b.cfg:285 ./A_New_Order/scenarios/ano-10.cfg:170
+#: ./A_New_Order/scenarios/ano-10.cfg:170 ./A_New_Order/scenarios/ano-14b.cfg:270 ./A_New_Order/scenarios/ano-14b.cfg:285 ./A_New_Order/scenarios/ano-14a.cfg:5
 msgid "HEROIC: Kill all enemy leaders OR"
 msgstr ""
 
@@ -3530,8 +3534,9 @@ msgstr ""
 msgid "One more reference to underling... Ah, what the hell."
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-11x.cfg:3 ./A_New_Order/scenarios/ano-11.cfg:3
+#. [scenario]: id=ano_11
+#. [scenario]: id=ano_11x
+#: ./A_New_Order/scenarios/ano-11.cfg:3 ./A_New_Order/scenarios/ano-11x.cfg:3
 msgid "Council in Freetown"
 msgstr ""
 
@@ -3560,10 +3565,10 @@ msgstr ""
 msgid "Mithrandil"
 msgstr ""
 
+#. [unit]: description=Huon Ryedric, type=General
 #. [unit]: description=Huon Ryedric, type=Sergeant
 #. [side]: description=Huon Ryedric, type=General
-#. [unit]: description=Huon Ryedric, type=General
-#: ./A_New_Order/scenarios/ano-15a.cfg:53 ./A_New_Order/scenarios/ano-11.cfg:48 ./A_New_Order/scenarios/ano-15.cfg:55 ./A_New_Order/scenarios/ano-24.cfg:68 ./A_New_Order/scenarios/ano-25.cfg:214 ./A_New_Order/scenarios/ano-26.cfg:60 ./A_New_Order/scenarios/ano-27.cfg:38 ./A_New_Order/scenarios/ano-28.cfg:101
+#: ./A_New_Order/scenarios/ano-28.cfg:101 ./A_New_Order/scenarios/ano-15a.cfg:53 ./A_New_Order/scenarios/ano-27.cfg:38 ./A_New_Order/scenarios/ano-25.cfg:214 ./A_New_Order/scenarios/ano-26.cfg:60 ./A_New_Order/scenarios/ano-11.cfg:48 ./A_New_Order/scenarios/ano-24.cfg:68 ./A_New_Order/scenarios/ano-15.cfg:55
 msgid "Huon Ryedric"
 msgstr ""
 
@@ -3840,58 +3845,60 @@ msgstr ""
 msgid "Death to our enemies!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:6
 msgid "Wait! Do not die yet! I know you can hear me, answer me a few questions!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:7
 msgid "Where did you hide the gold?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:8
 msgid "Do you know where Reme Carrenemoe is?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:9
 msgid "What do you know about the orcs?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:10
 msgid "Do you know anything about Lady Lorin?"
 msgstr ""
 
+#. [scenario]: id=ano_12
 #. [event]
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-14b.cfg:392 ./A_New_Order/scenarios/ano-14b.cfg:399 ./A_New_Order/scenarios/ano-14b.cfg:439 ./A_New_Order/scenarios/ano-14b.cfg:446 ./A_New_Order/scenarios/ano-21a.cfg:18 ./A_New_Order/scenarios/ano-21a.cfg:44 ./A_New_Order/scenarios/ano-21a.cfg:401 ./A_New_Order/scenarios/ano-12.cfg:11 ./A_New_Order/scenarios/ano-17.cfg:45 ./A_New_Order/scenarios/ano-17.cfg:79 ./A_New_Order/scenarios/ano-18.cfg:157 ./A_New_Order/scenarios/ano-18.cfg:242 ./A_New_Order/scenarios/ano-18.cfg:296 ./A_New_Order/scenarios/ano-18.cfg:397 ./A_New_Order/scenarios/ano-20.cfg:281 ./A_New_Order/scenarios/ano-20.cfg:330 ./A_New_Order/scenarios/ano-20.cfg:372 ./A_New_Order/scenarios/ano-25.cfg:695 ./A_New_Order/scenarios/ano-25.cfg:723 ./A_New_Order/scenarios/ano-20macros.cfg:396 ./A_New_Order/scenarios/ano-20macros.cfg:402 ./A_New_Order/scenarios/ano-20macros.cfg:409 ./A_New_Order/scenarios/ano-20macros.cfg:419 ./A_New_Order/scenarios/ano-20macros.cfg:425 ./A_New_Order/scenarios/ano-20macros.cfg:432
+#. [scenario]: id=ano_17
+#. [scenario]: id=ano_21bride
+#: ./A_New_Order/scenarios/ano-12.cfg:11 ./A_New_Order/scenarios/ano-20.cfg:281 ./A_New_Order/scenarios/ano-20.cfg:330 ./A_New_Order/scenarios/ano-20.cfg:372 ./A_New_Order/scenarios/ano-17.cfg:45 ./A_New_Order/scenarios/ano-17.cfg:79 ./A_New_Order/scenarios/ano-14b.cfg:392 ./A_New_Order/scenarios/ano-14b.cfg:399 ./A_New_Order/scenarios/ano-14b.cfg:439 ./A_New_Order/scenarios/ano-14b.cfg:446 ./A_New_Order/scenarios/ano-25.cfg:695 ./A_New_Order/scenarios/ano-25.cfg:723 ./A_New_Order/scenarios/ano-20macros.cfg:396 ./A_New_Order/scenarios/ano-20macros.cfg:402 ./A_New_Order/scenarios/ano-20macros.cfg:409 ./A_New_Order/scenarios/ano-20macros.cfg:419 ./A_New_Order/scenarios/ano-20macros.cfg:425 ./A_New_Order/scenarios/ano-20macros.cfg:432 ./A_New_Order/scenarios/ano-21a.cfg:18 ./A_New_Order/scenarios/ano-21a.cfg:44 ./A_New_Order/scenarios/ano-21a.cfg:401 ./A_New_Order/scenarios/ano-18.cfg:157 ./A_New_Order/scenarios/ano-18.cfg:242 ./A_New_Order/scenarios/ano-18.cfg:296 ./A_New_Order/scenarios/ano-18.cfg:397
 msgid "That's all I wanted to know."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:17
 msgid "Gold? What gold? I have no gold hidden.."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:20
 msgid "Reme? Yes, I've heard about him. His clan castle was burned down by Outlaws. But he is alive, they captured him. I've heard they want to trade him to Bor Cryne. I have heard that they keep him in place known as Bontom, but I don't know where it is..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:24
 msgid "We were ordered to cooperate with orcs.. We were told orcs are our allies.. I know nothing more."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:27
 msgid "I hope the witch is burning in hell!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_12
 #: ./A_New_Order/scenarios/ano-12.cfg:36
 msgid "Leaving Raedwood"
 msgstr ""
@@ -4089,7 +4096,7 @@ msgstr ""
 msgid "If I may suggest something, you may want to use elves. Six elves alone is the force which is strong enough to hold eastern leader, especially when using hit-and-run tactics. You may ignore one of the enemies at all and use all your forces against another one. Do not hurry, we have quite a lot of time."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:3
 msgid "Scouting"
 msgstr ""
@@ -4144,88 +4151,88 @@ msgstr ""
 msgid "Failing to save Reme really destroyed Gawen's mood. The news about Reme's death reached Gawen's temporary base soon after that."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:64
 msgid "I've seen a lot of orcs lately. They are going here and there, surprisingly disciplined and well-behaved for what I've heard about them. Well, yes, they killed and ate three of our cows and took our only horse, but that's what one can expect from any soldiers. Some orcish unit is garrisoned near Barnon, south from here."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:66 ./A_New_Order/scenarios/ano-13.cfg:136
 msgid "Reme? No, I have not heard about him."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:68
 msgid "Bontom? of course I know about it. It is a nice place west from here. Nice villages are there, my wife is from that area."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:78
 msgid "No offence, but you were already asking me that question."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:81
 msgid "Well, and what do you propose in exchange?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:83
 msgid "If not, I will burn down that village"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:84
 msgid "I will pay you in gold"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:85
 msgid "Chance to fight against orcs and Akladians"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:88
 msgid "No offense, but I value my life more than gold"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:90
 msgid "That supposed to convince me?!? Go away, little butcher. I will not talk to you more anymore"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:93
 msgid "And this is good reason, because..?"
 msgstr ""
 
-#. [scenario]
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:94 ./A_New_Order/scenarios/ano-18.cfg:163 ./A_New_Order/scenarios/ano-18.cfg:301 ./A_New_Order/scenarios/ano-18.cfg:402 ./A_New_Order/scenarios/ano-20macros.cfg:376
+#. [scenario]: id=ano_13
+#: ./A_New_Order/scenarios/ano-20macros.cfg:376 ./A_New_Order/scenarios/ano-13.cfg:94 ./A_New_Order/scenarios/ano-18.cfg:163 ./A_New_Order/scenarios/ano-18.cfg:301 ./A_New_Order/scenarios/ano-18.cfg:402
 msgid "Because..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:95
 msgid "You may have some fun!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:96
 msgid "You will earn some gold in process!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:97
 msgid "People not fighting for freedom are not worth it. Are you?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:98
 msgid "What, are you coward? Afraid of few orcs?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:102
 msgid "Well.. Yes, why not. One of our men can handle a bow. You could have some use of him"
 msgstr ""
@@ -4235,72 +4242,72 @@ msgstr ""
 msgid "Ringo"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:115
 msgid "Ha, ha, and I thought you were serious."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:129
 msgid "Orcs? They were here, but they left in hurry. They were pillaging villages east from us. They were going for place called Haeltin, and I've heard they were defeated there by some woman."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:131
 msgid "Some woman? SOME WOMAN? That freckled kid will be SOME woman when she will grown up, not me. I am lady, LADY Lorin."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:133
 msgid "Ah, this is that She-wolf of Haeltin you mentioned, Ruvio. Will have to meet her."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:138
 msgid "Bontom? It is somewhere to south-west. In a village south from here people should know more about it."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:140
 msgid "If I would be younger, then yes, why not, but I am really too old for adventure seeking."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:151
 msgid "Orcs? Da orcs were in plains pillagin' and burnin'. They are big, bad and you should avoid them boy."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:153
 msgid "Reme? What is that Reme? Some kind of food?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:154
 msgid "No, no, it's one of Akladian lords. who.."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:155
 msgid "Akladian lords, yea I've heard about them. They are big, bad and you should avoid them."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:157
 msgid "Bontom place, yea I've heard about that. It's somewhere in the south, maybe good people living in villages more to south would know more about it."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:160
 msgid "I'm too old for leavin' my village, and one boy who wanted to search for adventures already have joined you in the past."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:162
 msgid "I'm too old for leavin my village, but there is one boy who could fight for you, why not."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:164
 msgid "One of local peasant joins your army. It's untrained but LOYAL and STRONG unit."
 msgstr ""
@@ -4310,87 +4317,88 @@ msgstr ""
 msgid "John the Baldhead"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:187
 msgid "Now, when you know where your friend Reme is, you may go to that Bontom place the peasants told us about."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:189
 msgid "I guess we could ask peasants whether they know something about this Bontom place, in which your friend Reme is kept."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:194
 msgid "We already know what we had to find out. We should go to Freetown now."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:198
 msgid "We already were searching for answers in city of Barnon"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:200
 msgid "My lord, from here we may explore few possibilities. To the south, there is city of Barnon. Definetely it would be very dangerous to go there, but..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:201
 msgid "..but we could probably find something about orcs there, right?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:204
 msgid "We already searched in Haeltin, west from here. That your step-mother was there, known as She-wolf really surprised me."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:206
 msgid "Yes. We've heard that some woman, known by nickname 'She-wolf of Haeltin', was besieged by the orcs and she was able to repell them. Haeltin is west from here. It would be easy to go to her and ask her few questions."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:210
 msgid "We could also go for the swamps."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:211
 msgid "We could, but in swamps of Saorduc Saurians live, and they rarely go outside of their mud. I doubt they would know anything useful. There are also some villages there, you could go and ask peasants, maybe they would know something."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:216
 msgid "Frankly, I have no idea what to do now. We have already been in all the obvious locations."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-13.cfg:242 ./A_New_Order/scenarios/ano-18.cfg:46
 msgid "Raedwood Forest"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:243
 msgid "To Freetown"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:244
 msgid "To Haeltin"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:245
 msgid "To Saorduc swamps"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:246
 msgid "To Barnon"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_13
 #: ./A_New_Order/scenarios/ano-13.cfg:247
 msgid "Hyeton"
 msgstr ""
@@ -4416,7 +4424,7 @@ msgid "Nonono. He has to have a beard, because all our great kings had beards."
 msgstr ""
 
 #. [objectives]
-#: ./A_New_Order/scenarios/ano-13.cfg:307 ./A_New_Order/scenarios/ano-18.cfg:83 ./A_New_Order/scenarios/ano-20.cfg:131
+#: ./A_New_Order/scenarios/ano-20.cfg:131 ./A_New_Order/scenarios/ano-13.cfg:307 ./A_New_Order/scenarios/ano-18.cfg:83
 msgid "This is a large-scale map, where you will choose a way to go. You should move Gawen to any of the signpost or any other location to trigger moving to next scenario. Move Gawen to tent to talk with his friends."
 msgstr ""
 
@@ -4442,13 +4450,13 @@ msgstr ""
 
 #. [event]
 #. [else]
-#: ./A_New_Order/scenarios/ano-14a.cfg:391 ./A_New_Order/scenarios/ano-14b.cfg:311 ./A_New_Order/scenarios/ano-14d.cfg:157 ./A_New_Order/scenarios/ano-14d.cfg:209 ./A_New_Order/scenarios/ano-14d.cfg:244 ./A_New_Order/scenarios/ano-14e.cfg:325 ./A_New_Order/scenarios/ano-15a.cfg:185 ./A_New_Order/scenarios/ano-19a.cfg:157 ./A_New_Order/scenarios/ano-19b.cfg:144 ./A_New_Order/scenarios/ano-21a.cfg:348 ./A_New_Order/scenarios/ano-21b.cfg:176 ./A_New_Order/scenarios/ano-13.cfg:341 ./A_New_Order/scenarios/ano-13.cfg:368 ./A_New_Order/scenarios/ano-13.cfg:404 ./A_New_Order/scenarios/ano-13.cfg:689 ./A_New_Order/scenarios/ano-13.cfg:719 ./A_New_Order/scenarios/ano-13.cfg:748 ./A_New_Order/scenarios/ano-18.cfg:93 ./A_New_Order/scenarios/ano-18.cfg:115 ./A_New_Order/scenarios/ano-18.cfg:134 ./A_New_Order/scenarios/ano-18.cfg:180 ./A_New_Order/scenarios/ano-18.cfg:309 ./A_New_Order/scenarios/ano-18.cfg:330 ./A_New_Order/scenarios/ano-18.cfg:412 ./A_New_Order/scenarios/ano-20.cfg:148 ./A_New_Order/scenarios/ano-20.cfg:167 ./A_New_Order/scenarios/ano-20.cfg:184 ./A_New_Order/scenarios/ano-20.cfg:203 ./A_New_Order/scenarios/ano-20.cfg:227
+#: ./A_New_Order/scenarios/ano-15a.cfg:185 ./A_New_Order/scenarios/ano-20.cfg:148 ./A_New_Order/scenarios/ano-20.cfg:167 ./A_New_Order/scenarios/ano-20.cfg:184 ./A_New_Order/scenarios/ano-20.cfg:203 ./A_New_Order/scenarios/ano-20.cfg:227 ./A_New_Order/scenarios/ano-14d.cfg:157 ./A_New_Order/scenarios/ano-14d.cfg:209 ./A_New_Order/scenarios/ano-14d.cfg:244 ./A_New_Order/scenarios/ano-14b.cfg:311 ./A_New_Order/scenarios/ano-19a.cfg:157 ./A_New_Order/scenarios/ano-13.cfg:341 ./A_New_Order/scenarios/ano-13.cfg:368 ./A_New_Order/scenarios/ano-13.cfg:404 ./A_New_Order/scenarios/ano-13.cfg:689 ./A_New_Order/scenarios/ano-13.cfg:719 ./A_New_Order/scenarios/ano-13.cfg:748 ./A_New_Order/scenarios/ano-21b.cfg:176 ./A_New_Order/scenarios/ano-21a.cfg:348 ./A_New_Order/scenarios/ano-18.cfg:93 ./A_New_Order/scenarios/ano-18.cfg:115 ./A_New_Order/scenarios/ano-18.cfg:134 ./A_New_Order/scenarios/ano-18.cfg:180 ./A_New_Order/scenarios/ano-18.cfg:309 ./A_New_Order/scenarios/ano-18.cfg:330 ./A_New_Order/scenarios/ano-18.cfg:412 ./A_New_Order/scenarios/ano-19b.cfg:144 ./A_New_Order/scenarios/ano-14a.cfg:391 ./A_New_Order/scenarios/ano-14e.cfg:325
 msgid "Yes, definitely."
 msgstr ""
 
 #. [event]
 #. [else]
-#: ./A_New_Order/scenarios/ano-14a.cfg:392 ./A_New_Order/scenarios/ano-14b.cfg:312 ./A_New_Order/scenarios/ano-14d.cfg:158 ./A_New_Order/scenarios/ano-14e.cfg:326 ./A_New_Order/scenarios/ano-15a.cfg:186 ./A_New_Order/scenarios/ano-19a.cfg:158 ./A_New_Order/scenarios/ano-19b.cfg:145 ./A_New_Order/scenarios/ano-21a.cfg:349 ./A_New_Order/scenarios/ano-21b.cfg:177 ./A_New_Order/scenarios/ano-13.cfg:342 ./A_New_Order/scenarios/ano-13.cfg:369 ./A_New_Order/scenarios/ano-13.cfg:405 ./A_New_Order/scenarios/ano-13.cfg:690 ./A_New_Order/scenarios/ano-13.cfg:720 ./A_New_Order/scenarios/ano-13.cfg:749 ./A_New_Order/scenarios/ano-18.cfg:94 ./A_New_Order/scenarios/ano-18.cfg:116 ./A_New_Order/scenarios/ano-18.cfg:135 ./A_New_Order/scenarios/ano-18.cfg:181 ./A_New_Order/scenarios/ano-18.cfg:310 ./A_New_Order/scenarios/ano-18.cfg:331 ./A_New_Order/scenarios/ano-18.cfg:413 ./A_New_Order/scenarios/ano-20.cfg:149 ./A_New_Order/scenarios/ano-20.cfg:168 ./A_New_Order/scenarios/ano-20.cfg:185 ./A_New_Order/scenarios/ano-20.cfg:204 ./A_New_Order/scenarios/ano-20.cfg:228
+#: ./A_New_Order/scenarios/ano-15a.cfg:186 ./A_New_Order/scenarios/ano-20.cfg:149 ./A_New_Order/scenarios/ano-20.cfg:168 ./A_New_Order/scenarios/ano-20.cfg:185 ./A_New_Order/scenarios/ano-20.cfg:204 ./A_New_Order/scenarios/ano-20.cfg:228 ./A_New_Order/scenarios/ano-14d.cfg:158 ./A_New_Order/scenarios/ano-14b.cfg:312 ./A_New_Order/scenarios/ano-19a.cfg:158 ./A_New_Order/scenarios/ano-13.cfg:342 ./A_New_Order/scenarios/ano-13.cfg:369 ./A_New_Order/scenarios/ano-13.cfg:405 ./A_New_Order/scenarios/ano-13.cfg:690 ./A_New_Order/scenarios/ano-13.cfg:720 ./A_New_Order/scenarios/ano-13.cfg:749 ./A_New_Order/scenarios/ano-21b.cfg:177 ./A_New_Order/scenarios/ano-21a.cfg:349 ./A_New_Order/scenarios/ano-18.cfg:94 ./A_New_Order/scenarios/ano-18.cfg:116 ./A_New_Order/scenarios/ano-18.cfg:135 ./A_New_Order/scenarios/ano-18.cfg:181 ./A_New_Order/scenarios/ano-18.cfg:310 ./A_New_Order/scenarios/ano-18.cfg:331 ./A_New_Order/scenarios/ano-18.cfg:413 ./A_New_Order/scenarios/ano-19b.cfg:145 ./A_New_Order/scenarios/ano-14a.cfg:392 ./A_New_Order/scenarios/ano-14e.cfg:326
 msgid "Well, maybe not."
 msgstr ""
 
@@ -4519,7 +4527,7 @@ msgid "So go an' ask us"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14b.cfg:387 ./A_New_Order/scenarios/ano-14b.cfg:395 ./A_New_Order/scenarios/ano-14b.cfg:434 ./A_New_Order/scenarios/ano-14b.cfg:442 ./A_New_Order/scenarios/ano-13.cfg:427 ./A_New_Order/scenarios/ano-13.cfg:440 ./A_New_Order/scenarios/ano-13.cfg:466 ./A_New_Order/scenarios/ano-13.cfg:479 ./A_New_Order/scenarios/ano-13.cfg:499 ./A_New_Order/scenarios/ano-13.cfg:512 ./A_New_Order/scenarios/ano-18.cfg:152 ./A_New_Order/scenarios/ano-18.cfg:237 ./A_New_Order/scenarios/ano-18.cfg:291 ./A_New_Order/scenarios/ano-18.cfg:392 ./A_New_Order/scenarios/ano-20.cfg:277 ./A_New_Order/scenarios/ano-20.cfg:326 ./A_New_Order/scenarios/ano-20.cfg:368
+#: ./A_New_Order/scenarios/ano-20.cfg:277 ./A_New_Order/scenarios/ano-20.cfg:326 ./A_New_Order/scenarios/ano-20.cfg:368 ./A_New_Order/scenarios/ano-14b.cfg:387 ./A_New_Order/scenarios/ano-14b.cfg:395 ./A_New_Order/scenarios/ano-14b.cfg:434 ./A_New_Order/scenarios/ano-14b.cfg:442 ./A_New_Order/scenarios/ano-13.cfg:427 ./A_New_Order/scenarios/ano-13.cfg:440 ./A_New_Order/scenarios/ano-13.cfg:466 ./A_New_Order/scenarios/ano-13.cfg:479 ./A_New_Order/scenarios/ano-13.cfg:499 ./A_New_Order/scenarios/ano-13.cfg:512 ./A_New_Order/scenarios/ano-18.cfg:152 ./A_New_Order/scenarios/ano-18.cfg:237 ./A_New_Order/scenarios/ano-18.cfg:291 ./A_New_Order/scenarios/ano-18.cfg:392
 msgid "Please, tell me..."
 msgstr ""
 
@@ -4574,18 +4582,18 @@ msgid "Free men from Raedwood forest! You are always welcomed here."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:532 ./A_New_Order/scenarios/ano-13.cfg:542 ./A_New_Order/scenarios/ano-13.cfg:553 ./A_New_Order/scenarios/ano-13.cfg:561 ./A_New_Order/scenarios/ano-18.cfg:464 ./A_New_Order/scenarios/ano-18.cfg:472 ./A_New_Order/scenarios/ano-20.cfg:399 ./A_New_Order/scenarios/ano-20.cfg:408 ./A_New_Order/scenarios/ano-20.cfg:418 ./A_New_Order/scenarios/ano-20.cfg:426
+#: ./A_New_Order/scenarios/ano-20.cfg:399 ./A_New_Order/scenarios/ano-20.cfg:408 ./A_New_Order/scenarios/ano-20.cfg:418 ./A_New_Order/scenarios/ano-20.cfg:426 ./A_New_Order/scenarios/ano-13.cfg:532 ./A_New_Order/scenarios/ano-13.cfg:542 ./A_New_Order/scenarios/ano-13.cfg:553 ./A_New_Order/scenarios/ano-13.cfg:561 ./A_New_Order/scenarios/ano-18.cfg:464 ./A_New_Order/scenarios/ano-18.cfg:472
 msgid "I would love to talk to..."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:535 ./A_New_Order/scenarios/ano-13.cfg:556 ./A_New_Order/scenarios/ano-18.cfg:466 ./A_New_Order/scenarios/ano-20.cfg:401 ./A_New_Order/scenarios/ano-20.cfg:410
+#: ./A_New_Order/scenarios/ano-20.cfg:401 ./A_New_Order/scenarios/ano-20.cfg:410 ./A_New_Order/scenarios/ano-13.cfg:535 ./A_New_Order/scenarios/ano-13.cfg:556 ./A_New_Order/scenarios/ano-18.cfg:466
 msgid "Reme"
 msgstr ""
 
+#. [scenario]: id=ano_28
 #. [event]
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-13.cfg:536 ./A_New_Order/scenarios/ano-13.cfg:545 ./A_New_Order/scenarios/ano-18.cfg:467 ./A_New_Order/scenarios/ano-18.cfg:474 ./A_New_Order/scenarios/ano-20.cfg:402 ./A_New_Order/scenarios/ano-20.cfg:411 ./A_New_Order/scenarios/ano-20.cfg:421 ./A_New_Order/scenarios/ano-20.cfg:428 ./A_New_Order/scenarios/ano-28.cfg:3
+#: ./A_New_Order/scenarios/ano-28.cfg:3 ./A_New_Order/scenarios/ano-20.cfg:402 ./A_New_Order/scenarios/ano-20.cfg:411 ./A_New_Order/scenarios/ano-20.cfg:421 ./A_New_Order/scenarios/ano-20.cfg:428 ./A_New_Order/scenarios/ano-13.cfg:536 ./A_New_Order/scenarios/ano-13.cfg:545 ./A_New_Order/scenarios/ano-18.cfg:467 ./A_New_Order/scenarios/ano-18.cfg:474
 msgid "Lorin"
 msgstr ""
 
@@ -4595,12 +4603,12 @@ msgid "Yaranov"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:538 ./A_New_Order/scenarios/ano-13.cfg:547 ./A_New_Order/scenarios/ano-13.cfg:557 ./A_New_Order/scenarios/ano-13.cfg:564 ./A_New_Order/scenarios/ano-18.cfg:468 ./A_New_Order/scenarios/ano-18.cfg:475 ./A_New_Order/scenarios/ano-20.cfg:404 ./A_New_Order/scenarios/ano-20.cfg:412 ./A_New_Order/scenarios/ano-20.cfg:422 ./A_New_Order/scenarios/ano-20.cfg:429
+#: ./A_New_Order/scenarios/ano-20.cfg:404 ./A_New_Order/scenarios/ano-20.cfg:412 ./A_New_Order/scenarios/ano-20.cfg:422 ./A_New_Order/scenarios/ano-20.cfg:429 ./A_New_Order/scenarios/ano-13.cfg:538 ./A_New_Order/scenarios/ano-13.cfg:547 ./A_New_Order/scenarios/ano-13.cfg:557 ./A_New_Order/scenarios/ano-13.cfg:564 ./A_New_Order/scenarios/ano-18.cfg:468 ./A_New_Order/scenarios/ano-18.cfg:475
 msgid "I changed my mind"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:572 ./A_New_Order/scenarios/ano-18.cfg:481 ./A_New_Order/scenarios/ano-20.cfg:436
+#: ./A_New_Order/scenarios/ano-20.cfg:436 ./A_New_Order/scenarios/ano-13.cfg:572 ./A_New_Order/scenarios/ano-18.cfg:481
 msgid "Ruvio, please tell me.."
 msgstr ""
 
@@ -4760,7 +4768,7 @@ msgid "You may start to call me step-father, then."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:628 ./A_New_Order/scenarios/ano-13.cfg:637 ./A_New_Order/scenarios/ano-18.cfg:505 ./A_New_Order/scenarios/ano-20.cfg:468
+#: ./A_New_Order/scenarios/ano-20.cfg:468 ./A_New_Order/scenarios/ano-13.cfg:628 ./A_New_Order/scenarios/ano-13.cfg:637 ./A_New_Order/scenarios/ano-18.cfg:505
 msgid "Mother, can I have a word with you?"
 msgstr ""
 
@@ -4785,7 +4793,7 @@ msgid "How my real mother died?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-13.cfg:633 ./A_New_Order/scenarios/ano-13.cfg:641 ./A_New_Order/scenarios/ano-18.cfg:509 ./A_New_Order/scenarios/ano-20.cfg:471 ./A_New_Order/scenarios/ano-20.cfg:486
+#: ./A_New_Order/scenarios/ano-20.cfg:471 ./A_New_Order/scenarios/ano-20.cfg:486 ./A_New_Order/scenarios/ano-13.cfg:633 ./A_New_Order/scenarios/ano-13.cfg:641 ./A_New_Order/scenarios/ano-18.cfg:509
 msgid "Never mind"
 msgstr ""
 
@@ -4974,7 +4982,7 @@ msgstr ""
 msgid "NORMAL: Interrogate Orcish leader with Ruvio or Gawen and withdraw to northern signpost"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_barnon
 #: ./A_New_Order/scenarios/ano-14a.cfg:14
 msgid "Scouting near Barnon"
 msgstr ""
@@ -5122,7 +5130,7 @@ msgid "He doesn't know anything. Let him go"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:277 ./A_New_Order/scenarios/ano-20macros.cfg:525 ./A_New_Order/scenarios/ano-20macros.cfg:584
+#: ./A_New_Order/scenarios/ano-20macros.cfg:525 ./A_New_Order/scenarios/ano-20macros.cfg:584 ./A_New_Order/scenarios/ano-14a.cfg:277
 msgid "Aaargh!"
 msgstr ""
 
@@ -5177,17 +5185,17 @@ msgid "No, I won't let you! Orc, tell us everything you know and I will let you 
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:339 ./A_New_Order/scenarios/ano-14a.cfg:356 ./A_New_Order/scenarios/ano-14a.cfg:374 ./A_New_Order/scenarios/ano-14b.cfg:520 ./A_New_Order/scenarios/ano-14b.cfg:532 ./A_New_Order/scenarios/ano-14d.cfg:225 ./A_New_Order/scenarios/ano-14d.cfg:260
+#: ./A_New_Order/scenarios/ano-14d.cfg:225 ./A_New_Order/scenarios/ano-14d.cfg:260 ./A_New_Order/scenarios/ano-14b.cfg:520 ./A_New_Order/scenarios/ano-14b.cfg:532 ./A_New_Order/scenarios/ano-14a.cfg:339 ./A_New_Order/scenarios/ano-14a.cfg:356 ./A_New_Order/scenarios/ano-14a.cfg:374
 msgid "I don't know much - only that this was the wish of our guide, Grekulak. He wished Akladians to be allied with us."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:340 ./A_New_Order/scenarios/ano-14a.cfg:357 ./A_New_Order/scenarios/ano-14a.cfg:375 ./A_New_Order/scenarios/ano-14b.cfg:505 ./A_New_Order/scenarios/ano-14b.cfg:521 ./A_New_Order/scenarios/ano-14b.cfg:533 ./A_New_Order/scenarios/ano-14d.cfg:190 ./A_New_Order/scenarios/ano-14d.cfg:226 ./A_New_Order/scenarios/ano-14d.cfg:261
+#: ./A_New_Order/scenarios/ano-14d.cfg:190 ./A_New_Order/scenarios/ano-14d.cfg:226 ./A_New_Order/scenarios/ano-14d.cfg:261 ./A_New_Order/scenarios/ano-14b.cfg:505 ./A_New_Order/scenarios/ano-14b.cfg:521 ./A_New_Order/scenarios/ano-14b.cfg:533 ./A_New_Order/scenarios/ano-14a.cfg:340 ./A_New_Order/scenarios/ano-14a.cfg:357 ./A_New_Order/scenarios/ano-14a.cfg:375
 msgid "Grekulak! I know that name. We should go back to Freetown and report that, that's all we had to know!"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:341 ./A_New_Order/scenarios/ano-14a.cfg:358 ./A_New_Order/scenarios/ano-14a.cfg:376 ./A_New_Order/scenarios/ano-14b.cfg:506 ./A_New_Order/scenarios/ano-14b.cfg:522 ./A_New_Order/scenarios/ano-14b.cfg:534 ./A_New_Order/scenarios/ano-14d.cfg:227 ./A_New_Order/scenarios/ano-14d.cfg:262
+#: ./A_New_Order/scenarios/ano-14d.cfg:227 ./A_New_Order/scenarios/ano-14d.cfg:262 ./A_New_Order/scenarios/ano-14b.cfg:506 ./A_New_Order/scenarios/ano-14b.cfg:522 ./A_New_Order/scenarios/ano-14b.cfg:534 ./A_New_Order/scenarios/ano-14a.cfg:341 ./A_New_Order/scenarios/ano-14a.cfg:358 ./A_New_Order/scenarios/ano-14a.cfg:376
 msgid "Grekulak? That's something to report. We should go back to Freetown then."
 msgstr ""
 
@@ -5207,12 +5215,12 @@ msgid "Amazing. Simply, amazing."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:390 ./A_New_Order/scenarios/ano-14d.cfg:156 ./A_New_Order/scenarios/ano-14e.cfg:324 ./A_New_Order/scenarios/ano-21b.cfg:175
+#: ./A_New_Order/scenarios/ano-14d.cfg:156 ./A_New_Order/scenarios/ano-21b.cfg:175 ./A_New_Order/scenarios/ano-14a.cfg:390 ./A_New_Order/scenarios/ano-14e.cfg:324
 msgid "My lord, are you sure you want to retreat?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:401 ./A_New_Order/scenarios/ano-14b.cfg:571 ./A_New_Order/scenarios/ano-14d.cfg:369 ./A_New_Order/scenarios/ano-14e.cfg:428
+#: ./A_New_Order/scenarios/ano-14d.cfg:369 ./A_New_Order/scenarios/ano-14b.cfg:571 ./A_New_Order/scenarios/ano-14a.cfg:401 ./A_New_Order/scenarios/ano-14e.cfg:428
 msgid "Oh no! New reinforcements arrived to help our enemies, now we have no chances to defeat them!"
 msgstr ""
 
@@ -5222,31 +5230,31 @@ msgid "Ha! The orcs were hiding here some gold!"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14a.cfg:412 ./A_New_Order/scenarios/ano-14b.cfg:546 ./A_New_Order/scenarios/ano-14e.cfg:342 ./A_New_Order/scenarios/ano-20.cfg:255 ./A_New_Order/scenarios/ano-20.cfg:317
+#: ./A_New_Order/scenarios/ano-20.cfg:255 ./A_New_Order/scenarios/ano-20.cfg:317 ./A_New_Order/scenarios/ano-14b.cfg:546 ./A_New_Order/scenarios/ano-14a.cfg:412 ./A_New_Order/scenarios/ano-14e.cfg:342
 msgid "You have received 50 golden pieces"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_bontom
 #: ./A_New_Order/scenarios/ano-14b.cfg:3
 msgid "Bontom"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_bontom
 #: ./A_New_Order/scenarios/ano-14b.cfg:9
 msgid "Yes, I survived the battle at Barnon. I will tell you everything later, but now - do not call me Gawen, please. I am Gaumhaldric."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_bontom
 #: ./A_New_Order/scenarios/ano-14b.cfg:11
 msgid "Now, we may withdraw. There is no point to fight the others."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_bontom
 #: ./A_New_Order/scenarios/ano-14b.cfg:13
 msgid "Now, we may try to interrogate that orcish leader or simply withdraw."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_bontom
 #: ./A_New_Order/scenarios/ano-14b.cfg:15
 msgid "Note: you will receive no bonus if you will withdraw with Reme."
 msgstr ""
@@ -5262,7 +5270,7 @@ msgid "Hans the Ripper"
 msgstr ""
 
 #. [side]: description=Uruk Lug, type=Orcish Warlord
-#: ./A_New_Order/scenarios/ano-14b.cfg:100 ./A_New_Order/scenarios/ano-14d.cfg:43
+#: ./A_New_Order/scenarios/ano-14d.cfg:43 ./A_New_Order/scenarios/ano-14b.cfg:100
 msgid "Uruk Lug"
 msgstr ""
 
@@ -5658,17 +5666,17 @@ msgid "And she looks cool in armour, too."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14b.cfg:517 ./A_New_Order/scenarios/ano-14b.cfg:529 ./A_New_Order/scenarios/ano-14d.cfg:198 ./A_New_Order/scenarios/ano-14d.cfg:222 ./A_New_Order/scenarios/ano-14d.cfg:233 ./A_New_Order/scenarios/ano-14d.cfg:257
+#: ./A_New_Order/scenarios/ano-14d.cfg:198 ./A_New_Order/scenarios/ano-14d.cfg:222 ./A_New_Order/scenarios/ano-14d.cfg:233 ./A_New_Order/scenarios/ano-14d.cfg:257 ./A_New_Order/scenarios/ano-14b.cfg:517 ./A_New_Order/scenarios/ano-14b.cfg:529
 msgid "I will allow you to live, if you will tell me few things."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14b.cfg:518 ./A_New_Order/scenarios/ano-14b.cfg:530 ./A_New_Order/scenarios/ano-14d.cfg:223 ./A_New_Order/scenarios/ano-14d.cfg:258
+#: ./A_New_Order/scenarios/ano-14d.cfg:223 ./A_New_Order/scenarios/ano-14d.cfg:258 ./A_New_Order/scenarios/ano-14b.cfg:518 ./A_New_Order/scenarios/ano-14b.cfg:530
 msgid "Ask then, human."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-14b.cfg:519 ./A_New_Order/scenarios/ano-14b.cfg:531 ./A_New_Order/scenarios/ano-14d.cfg:224 ./A_New_Order/scenarios/ano-14d.cfg:259
+#: ./A_New_Order/scenarios/ano-14d.cfg:224 ./A_New_Order/scenarios/ano-14d.cfg:259 ./A_New_Order/scenarios/ano-14b.cfg:519 ./A_New_Order/scenarios/ano-14b.cfg:531
 msgid "Why are you allied with Akladians?"
 msgstr ""
 
@@ -5692,7 +5700,7 @@ msgstr ""
 msgid "I guess this was gold prepared to pay for Reme Carrenemoe."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_haeltin
 #: ./A_New_Order/scenarios/ano-14c.cfg:3
 msgid "She-wolf of Haeltin"
 msgstr ""
@@ -5897,7 +5905,7 @@ msgstr ""
 msgid "Because Andrey Yaranov joined you together with Lorin, you can now recruit Aragwaiths."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_orcs
 #: ./A_New_Order/scenarios/ano-14d.cfg:3
 msgid "Avenging Ruen"
 msgstr ""
@@ -6117,53 +6125,55 @@ msgstr ""
 msgid "Fast Robin"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:3
 msgid "Saorduc Swamps"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:8
 msgid "Wait! Hhhuman, there is no reason for ussss to fight. Iff you will leave, we will pay you 100 golden pieces in gold "
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:9
 msgid "Note: if you will accept lizard's offer, no bonus for early finish will be given."
 msgstr ""
 
-#. [scenario]
 #. [event]
-#: ./A_New_Order/scenarios/ano-23macros.cfg:17 ./A_New_Order/scenarios/ano-14e.cfg:10 ./A_New_Order/scenarios/ano-15a.cfg:127 ./A_New_Order/scenarios/ano-22.cfg:76 ./A_New_Order/scenarios/ano-22.cfg:84 ./A_New_Order/scenarios/ano-22.cfg:99 ./A_New_Order/scenarios/ano-22.cfg:456 ./A_New_Order/scenarios/ano-25.cfg:15 ./A_New_Order/scenarios/ano-20macros.cfg:355
+#. [scenario]: id=ano_25
+#. [scenario]: id=ano_22
+#. [scenario]: id=ano_14_saorduc
+#: ./A_New_Order/scenarios/ano-15a.cfg:127 ./A_New_Order/scenarios/ano-23macros.cfg:17 ./A_New_Order/scenarios/ano-25.cfg:15 ./A_New_Order/scenarios/ano-22.cfg:76 ./A_New_Order/scenarios/ano-22.cfg:84 ./A_New_Order/scenarios/ano-22.cfg:99 ./A_New_Order/scenarios/ano-22.cfg:456 ./A_New_Order/scenarios/ano-20macros.cfg:355 ./A_New_Order/scenarios/ano-14e.cfg:10
 msgid "Well..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:11
 msgid "Allright, I accept your offer"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:12
 msgid "No, I have to train my troops"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:14
 msgid "Wisssse desision it wass.. Here isss your gold."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:27 ./A_New_Order/scenarios/ano-14e.cfg:33
 msgid "Speak quickly, and I will save your life. What do you know about alliance between orcs and Akladians?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:28 ./A_New_Order/scenarios/ano-14e.cfg:34
 msgid "Nothing! One of Akladianss assssked Orcs to come, they came, they are sssslaughtering humansss, good thing. Not coming into sssswamps, good thing."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_14_saorduc
 #: ./A_New_Order/scenarios/ano-14e.cfg:29 ./A_New_Order/scenarios/ano-14e.cfg:35
 msgid "Go and hide into your quagmire, mudcrawler."
 msgstr ""
@@ -6606,7 +6616,7 @@ msgstr ""
 msgid "That's what I meant. You have not won, great super killing machine, so you have lost."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_15
 #: ./A_New_Order/scenarios/ano-15.cfg:3
 msgid "Back in Freetown"
 msgstr ""
@@ -6692,7 +6702,7 @@ msgid "We believe that Grekulak is one of surviving adepts of Mal-Ravanal. We su
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-15.cfg:124 ./A_New_Order/scenarios/ano-22.cfg:591
+#: ./A_New_Order/scenarios/ano-22.cfg:591 ./A_New_Order/scenarios/ano-15.cfg:124
 msgid "What do you mean by that?"
 msgstr ""
 
@@ -6777,7 +6787,7 @@ msgid "Oracle is not deceiving anyone. She just looks into the sea of magic and 
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-15.cfg:152 ./A_New_Order/scenarios/ano-20.cfg:477
+#: ./A_New_Order/scenarios/ano-20.cfg:477 ./A_New_Order/scenarios/ano-15.cfg:152
 msgid "I don't understand."
 msgstr ""
 
@@ -6791,7 +6801,7 @@ msgstr ""
 msgid "No. No. That's not true. That's... leave me alone."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_15a
 #: ./A_New_Order/scenarios/ano-15a.cfg:3
 msgid "The Preparations"
 msgstr ""
@@ -6906,9 +6916,9 @@ msgstr ""
 msgid "Bowman"
 msgstr ""
 
+#. [unit]: id=Aragwaith Spearman, race=aragwaith
 #. [event]
-#. [unit]: race=aragwaith
-#: ./A_New_Order/scenarios/ano-15a.cfg:161 ./A_New_Order/units/aragwaithi/Spearman.cfg:5
+#: ./A_New_Order/units/aragwaithi/Spearman.cfg:5 ./A_New_Order/scenarios/ano-15a.cfg:161
 msgid "Spearman"
 msgstr ""
 
@@ -6942,7 +6952,7 @@ msgstr ""
 msgid "So, let's go and choose twelve of our's best troops."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_15b
 #: ./A_New_Order/scenarios/ano-15b.cfg:3
 msgid "Repelling the Orcs"
 msgstr ""
@@ -6982,7 +6992,7 @@ msgstr ""
 msgid "There are no hidden elements in this scenario. Orcish leader can't be interrogated. This scenario is intended for gathering more experience for Gawen's troops. Remember, you will be allowed to choose twelve best troops in next scenario."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_16
 #: ./A_New_Order/scenarios/ano-16.cfg:3
 msgid "Choosing the Best"
 msgstr ""
@@ -7132,162 +7142,162 @@ msgstr ""
 msgid "End turn if you do not want or can't recall more troops."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:3
 msgid "Sneaking out the Raedwood"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:11
 msgid "MY KING! Forgive me, kill me now, how could I fight against you. Now I know I am a worthless traitor."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:12
 msgid "Gawen, I think I told you to keep your identity a secret."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:13
 msgid "It is for adviser to advise, and for leader to choose whether to follow his advises. Raban, there is no treachery if you didn't know that it is me."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:16
 msgid "I've heard that name.. New, skilled underling leader. Now I know my honour was untouched when I lost to you."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:18
 msgid "And now, ..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:19
 msgid "I will spare your life."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:20
 msgid "Go to your ancestors."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:23
 msgid "I will order my people to try to cure your wounds. And then I will release you."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:26
 msgid "Go to your ancestors, brave man. I can't live you alive."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:31
 msgid "Can you still hear me, don't you? I have some questions."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:32
 msgid "Then ask someone else, who will know the answers."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:33
 msgid "Wait! Don't die yet! Damn, he lost his conscience already."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:40 ./A_New_Order/scenarios/ano-17.cfg:74
 msgid "Now, tell me..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:41 ./A_New_Order/scenarios/ano-17.cfg:75
 msgid "Why Bor Cryne is allied with orcs?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:42 ./A_New_Order/scenarios/ano-17.cfg:76
 msgid "What can you say about Grekulak?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:43 ./A_New_Order/scenarios/ano-17.cfg:77
 msgid "Do you know where great mage Deorien is?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:44 ./A_New_Order/scenarios/ano-17.cfg:78
 msgid "Will you fight for us?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:50
 msgid "Mage? Then he is in hell, surely!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:52
 msgid "I don't know. He is leading the orcs, but he is not orc. I am not sure who is he. There are gossips that a new messiah will come to lead us to conquer the world, and he could be that new messiah, I think."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:53
 msgid "New messiah?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:54
 msgid "Yes. He will show us how to renew alliance with God, he will show us new ways. He won't be Akladian, at least not fully Akladian, the gossip is not clear about that."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:57
 msgid "It's because we need allies against this usurper, mixling Gawen Hagarthen."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:58
 msgid "And what are his plans for future?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:59
 msgid "I think Bor want's to be new king. He will then try to unite all Akladian kingdoms and finish conquest of Wesnoth. On the way he will purify our race by killing every Akladian unworthy of that name."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:60
 msgid "Unworthy? What do you mean by that?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:61
 msgid "Those, who offended our God by marrying Wesnothian women. Who allowed to live their daughters when they choose another husband or married underling. Who are underling's friends. All of them will be sacrifised to God."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:65
 msgid "Never in my life or afterlife!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:84
 msgid "I do not know that. If he is mage, then he is enemy of our God and as such, has no right to life."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:86
 msgid "I do not know that name."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:88
 msgid "I do not know that. I've heard they came here to purify the world before the new messiah will come, but right now they are just pillaging and murdering many good people, both Akladian and Wesnothian."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_17
 #: ./A_New_Order/scenarios/ano-17.cfg:91
 msgid "I can't, your blow almost chopped my arm off. If you will allow me to live, I will return to my wife and children."
 msgstr ""
@@ -7657,7 +7667,7 @@ msgstr ""
 msgid "Look! The fresh enemy units arrived! We have no chances to win now!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:3
 msgid "Start of the quest"
 msgstr ""
@@ -7677,27 +7687,27 @@ msgstr ""
 msgid "I wasn't happy with results of our visit to Oracle. None of the so called 'answers' she gave us satisfied me. Still, we had no idea where to search for Deorien, and the discussion between Lorin and Oracle just confused me. Lorin refused to talk about this and became much more taciturn, comprising something in herself."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:47
 msgid "Burton's wood"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:48
 msgid "Horsemills"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:49
 msgid "Porkton"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:50
 msgid "Laville"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_18
 #: ./A_New_Order/scenarios/ano-18.cfg:51
 msgid "To the Oracle"
 msgstr ""
@@ -7738,7 +7748,7 @@ msgid "So, should we pick that way?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:147 ./A_New_Order/scenarios/ano-18.cfg:149 ./A_New_Order/scenarios/ano-18.cfg:161 ./A_New_Order/scenarios/ano-18.cfg:169 ./A_New_Order/scenarios/ano-18.cfg:171 ./A_New_Order/scenarios/ano-18.cfg:173 ./A_New_Order/scenarios/ano-18.cfg:175 ./A_New_Order/scenarios/ano-18.cfg:177 ./A_New_Order/scenarios/ano-18.cfg:198 ./A_New_Order/scenarios/ano-18.cfg:203 ./A_New_Order/scenarios/ano-18.cfg:206 ./A_New_Order/scenarios/ano-18.cfg:208 ./A_New_Order/scenarios/ano-18.cfg:210 ./A_New_Order/scenarios/ano-18.cfg:212 ./A_New_Order/scenarios/ano-18.cfg:222 ./A_New_Order/scenarios/ano-18.cfg:229 ./A_New_Order/scenarios/ano-18.cfg:232 ./A_New_Order/scenarios/ano-18.cfg:247 ./A_New_Order/scenarios/ano-18.cfg:260 ./A_New_Order/scenarios/ano-18.cfg:263 ./A_New_Order/scenarios/ano-18.cfg:266 ./A_New_Order/scenarios/ano-18.cfg:268 ./A_New_Order/scenarios/ano-18.cfg:270 ./A_New_Order/scenarios/ano-18.cfg:272 ./A_New_Order/scenarios/ano-18.cfg:273 ./A_New_Order/scenarios/ano-18.cfg:275 ./A_New_Order/scenarios/ano-18.cfg:278 ./A_New_Order/scenarios/ano-18.cfg:288 ./A_New_Order/scenarios/ano-18.cfg:300 ./A_New_Order/scenarios/ano-18.cfg:307 ./A_New_Order/scenarios/ano-18.cfg:328 ./A_New_Order/scenarios/ano-18.cfg:349 ./A_New_Order/scenarios/ano-18.cfg:351 ./A_New_Order/scenarios/ano-18.cfg:353 ./A_New_Order/scenarios/ano-18.cfg:358 ./A_New_Order/scenarios/ano-18.cfg:361 ./A_New_Order/scenarios/ano-18.cfg:364 ./A_New_Order/scenarios/ano-18.cfg:366 ./A_New_Order/scenarios/ano-18.cfg:368 ./A_New_Order/scenarios/ano-18.cfg:372 ./A_New_Order/scenarios/ano-18.cfg:374 ./A_New_Order/scenarios/ano-18.cfg:377 ./A_New_Order/scenarios/ano-18.cfg:387 ./A_New_Order/scenarios/ano-18.cfg:389 ./A_New_Order/scenarios/ano-18.cfg:401 ./A_New_Order/scenarios/ano-18.cfg:408 ./A_New_Order/scenarios/ano-18.cfg:410 ./A_New_Order/scenarios/ano-18.cfg:429 ./A_New_Order/scenarios/ano-18.cfg:431 ./A_New_Order/scenarios/ano-18.cfg:433 ./A_New_Order/scenarios/ano-18.cfg:437 ./A_New_Order/scenarios/ano-18.cfg:440 ./A_New_Order/scenarios/ano-18.cfg:442 ./A_New_Order/scenarios/ano-18.cfg:445 ./A_New_Order/scenarios/ano-18.cfg:447 ./A_New_Order/scenarios/ano-18.cfg:450 ./A_New_Order/scenarios/ano-20.cfg:250 ./A_New_Order/scenarios/ano-20.cfg:253 ./A_New_Order/scenarios/ano-20.cfg:263 ./A_New_Order/scenarios/ano-20.cfg:269 ./A_New_Order/scenarios/ano-20.cfg:270 ./A_New_Order/scenarios/ano-20.cfg:284 ./A_New_Order/scenarios/ano-20.cfg:286 ./A_New_Order/scenarios/ano-20.cfg:288 ./A_New_Order/scenarios/ano-20.cfg:290 ./A_New_Order/scenarios/ano-20.cfg:292 ./A_New_Order/scenarios/ano-20.cfg:295 ./A_New_Order/scenarios/ano-20.cfg:297 ./A_New_Order/scenarios/ano-20.cfg:312 ./A_New_Order/scenarios/ano-20.cfg:314 ./A_New_Order/scenarios/ano-20.cfg:334 ./A_New_Order/scenarios/ano-20.cfg:336 ./A_New_Order/scenarios/ano-20.cfg:351 ./A_New_Order/scenarios/ano-20.cfg:353 ./A_New_Order/scenarios/ano-20.cfg:355 ./A_New_Order/scenarios/ano-20.cfg:362 ./A_New_Order/scenarios/ano-20.cfg:364 ./A_New_Order/scenarios/ano-20.cfg:375 ./A_New_Order/scenarios/ano-20.cfg:377 ./A_New_Order/scenarios/ano-20.cfg:379 ./A_New_Order/scenarios/ano-20.cfg:381
+#: ./A_New_Order/scenarios/ano-20.cfg:250 ./A_New_Order/scenarios/ano-20.cfg:253 ./A_New_Order/scenarios/ano-20.cfg:263 ./A_New_Order/scenarios/ano-20.cfg:269 ./A_New_Order/scenarios/ano-20.cfg:270 ./A_New_Order/scenarios/ano-20.cfg:284 ./A_New_Order/scenarios/ano-20.cfg:286 ./A_New_Order/scenarios/ano-20.cfg:288 ./A_New_Order/scenarios/ano-20.cfg:290 ./A_New_Order/scenarios/ano-20.cfg:292 ./A_New_Order/scenarios/ano-20.cfg:295 ./A_New_Order/scenarios/ano-20.cfg:297 ./A_New_Order/scenarios/ano-20.cfg:312 ./A_New_Order/scenarios/ano-20.cfg:314 ./A_New_Order/scenarios/ano-20.cfg:334 ./A_New_Order/scenarios/ano-20.cfg:336 ./A_New_Order/scenarios/ano-20.cfg:351 ./A_New_Order/scenarios/ano-20.cfg:353 ./A_New_Order/scenarios/ano-20.cfg:355 ./A_New_Order/scenarios/ano-20.cfg:362 ./A_New_Order/scenarios/ano-20.cfg:364 ./A_New_Order/scenarios/ano-20.cfg:375 ./A_New_Order/scenarios/ano-20.cfg:377 ./A_New_Order/scenarios/ano-20.cfg:379 ./A_New_Order/scenarios/ano-20.cfg:381 ./A_New_Order/scenarios/ano-18.cfg:147 ./A_New_Order/scenarios/ano-18.cfg:149 ./A_New_Order/scenarios/ano-18.cfg:161 ./A_New_Order/scenarios/ano-18.cfg:169 ./A_New_Order/scenarios/ano-18.cfg:171 ./A_New_Order/scenarios/ano-18.cfg:173 ./A_New_Order/scenarios/ano-18.cfg:175 ./A_New_Order/scenarios/ano-18.cfg:177 ./A_New_Order/scenarios/ano-18.cfg:198 ./A_New_Order/scenarios/ano-18.cfg:203 ./A_New_Order/scenarios/ano-18.cfg:206 ./A_New_Order/scenarios/ano-18.cfg:208 ./A_New_Order/scenarios/ano-18.cfg:210 ./A_New_Order/scenarios/ano-18.cfg:212 ./A_New_Order/scenarios/ano-18.cfg:222 ./A_New_Order/scenarios/ano-18.cfg:229 ./A_New_Order/scenarios/ano-18.cfg:232 ./A_New_Order/scenarios/ano-18.cfg:247 ./A_New_Order/scenarios/ano-18.cfg:260 ./A_New_Order/scenarios/ano-18.cfg:263 ./A_New_Order/scenarios/ano-18.cfg:266 ./A_New_Order/scenarios/ano-18.cfg:268 ./A_New_Order/scenarios/ano-18.cfg:270 ./A_New_Order/scenarios/ano-18.cfg:272 ./A_New_Order/scenarios/ano-18.cfg:273 ./A_New_Order/scenarios/ano-18.cfg:275 ./A_New_Order/scenarios/ano-18.cfg:278 ./A_New_Order/scenarios/ano-18.cfg:288 ./A_New_Order/scenarios/ano-18.cfg:300 ./A_New_Order/scenarios/ano-18.cfg:307 ./A_New_Order/scenarios/ano-18.cfg:328 ./A_New_Order/scenarios/ano-18.cfg:349 ./A_New_Order/scenarios/ano-18.cfg:351 ./A_New_Order/scenarios/ano-18.cfg:353 ./A_New_Order/scenarios/ano-18.cfg:358 ./A_New_Order/scenarios/ano-18.cfg:361 ./A_New_Order/scenarios/ano-18.cfg:364 ./A_New_Order/scenarios/ano-18.cfg:366 ./A_New_Order/scenarios/ano-18.cfg:368 ./A_New_Order/scenarios/ano-18.cfg:372 ./A_New_Order/scenarios/ano-18.cfg:374 ./A_New_Order/scenarios/ano-18.cfg:377 ./A_New_Order/scenarios/ano-18.cfg:387 ./A_New_Order/scenarios/ano-18.cfg:389 ./A_New_Order/scenarios/ano-18.cfg:401 ./A_New_Order/scenarios/ano-18.cfg:408 ./A_New_Order/scenarios/ano-18.cfg:410 ./A_New_Order/scenarios/ano-18.cfg:429 ./A_New_Order/scenarios/ano-18.cfg:431 ./A_New_Order/scenarios/ano-18.cfg:433 ./A_New_Order/scenarios/ano-18.cfg:437 ./A_New_Order/scenarios/ano-18.cfg:440 ./A_New_Order/scenarios/ano-18.cfg:442 ./A_New_Order/scenarios/ano-18.cfg:445 ./A_New_Order/scenarios/ano-18.cfg:447 ./A_New_Order/scenarios/ano-18.cfg:450
 msgid "Village leader"
 msgstr ""
 
@@ -7758,13 +7768,13 @@ msgid "Freedom fighters? Yea, sure. But please do not fight for freedom here. We
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:153 ./A_New_Order/scenarios/ano-18.cfg:238 ./A_New_Order/scenarios/ano-18.cfg:292 ./A_New_Order/scenarios/ano-18.cfg:393 ./A_New_Order/scenarios/ano-20.cfg:278 ./A_New_Order/scenarios/ano-20.cfg:327 ./A_New_Order/scenarios/ano-20.cfg:369
+#: ./A_New_Order/scenarios/ano-20.cfg:278 ./A_New_Order/scenarios/ano-20.cfg:327 ./A_New_Order/scenarios/ano-20.cfg:369 ./A_New_Order/scenarios/ano-18.cfg:153 ./A_New_Order/scenarios/ano-18.cfg:238 ./A_New_Order/scenarios/ano-18.cfg:292 ./A_New_Order/scenarios/ano-18.cfg:393
 msgid "Would you fight for me?"
 msgstr ""
 
 #. [event]
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-21a.cfg:17 ./A_New_Order/scenarios/ano-21a.cfg:43 ./A_New_Order/scenarios/ano-21a.cfg:400 ./A_New_Order/scenarios/ano-18.cfg:154 ./A_New_Order/scenarios/ano-18.cfg:239 ./A_New_Order/scenarios/ano-18.cfg:293 ./A_New_Order/scenarios/ano-18.cfg:394 ./A_New_Order/scenarios/ano-20.cfg:279 ./A_New_Order/scenarios/ano-20.cfg:328 ./A_New_Order/scenarios/ano-20.cfg:370
+#. [scenario]: id=ano_21bride
+#: ./A_New_Order/scenarios/ano-20.cfg:279 ./A_New_Order/scenarios/ano-20.cfg:328 ./A_New_Order/scenarios/ano-20.cfg:370 ./A_New_Order/scenarios/ano-21a.cfg:17 ./A_New_Order/scenarios/ano-21a.cfg:43 ./A_New_Order/scenarios/ano-21a.cfg:400 ./A_New_Order/scenarios/ano-18.cfg:154 ./A_New_Order/scenarios/ano-18.cfg:239 ./A_New_Order/scenarios/ano-18.cfg:293 ./A_New_Order/scenarios/ano-18.cfg:394
 msgid "Do you know something about mage Deorien?"
 msgstr ""
 
@@ -7774,7 +7784,7 @@ msgid "Do you know where Oracle lives?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:156 ./A_New_Order/scenarios/ano-18.cfg:241 ./A_New_Order/scenarios/ano-18.cfg:295 ./A_New_Order/scenarios/ano-18.cfg:396 ./A_New_Order/scenarios/ano-20.cfg:280 ./A_New_Order/scenarios/ano-20.cfg:329 ./A_New_Order/scenarios/ano-20.cfg:371
+#: ./A_New_Order/scenarios/ano-20.cfg:280 ./A_New_Order/scenarios/ano-20.cfg:329 ./A_New_Order/scenarios/ano-20.cfg:371 ./A_New_Order/scenarios/ano-18.cfg:156 ./A_New_Order/scenarios/ano-18.cfg:241 ./A_New_Order/scenarios/ano-18.cfg:295 ./A_New_Order/scenarios/ano-18.cfg:396
 msgid "Have you heard any interesting news recently?"
 msgstr ""
 
@@ -8059,37 +8069,37 @@ msgid "A lot of interesting things happened recently! Two girls were born in my 
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:482 ./A_New_Order/scenarios/ano-20.cfg:437
+#: ./A_New_Order/scenarios/ano-20.cfg:437 ./A_New_Order/scenarios/ano-18.cfg:482
 msgid "Why do you dislike Lorin?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:484 ./A_New_Order/scenarios/ano-20.cfg:439
+#: ./A_New_Order/scenarios/ano-20.cfg:439 ./A_New_Order/scenarios/ano-18.cfg:484
 msgid "Tell me about Karen"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:487 ./A_New_Order/scenarios/ano-20.cfg:442
+#: ./A_New_Order/scenarios/ano-20.cfg:442 ./A_New_Order/scenarios/ano-18.cfg:487
 msgid "You must be kidding. This woman is so hard to live near I cannot understand why Yaranov seemed to have crunch on her."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:491 ./A_New_Order/scenarios/ano-20.cfg:448
+#: ./A_New_Order/scenarios/ano-20.cfg:448 ./A_New_Order/scenarios/ano-18.cfg:491
 msgid "Weeell, she is my oldest daughter. From her youth she always wanted to be great fighter, and she always tried to be the best."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:492 ./A_New_Order/scenarios/ano-20.cfg:449
+#: ./A_New_Order/scenarios/ano-20.cfg:449 ./A_New_Order/scenarios/ano-18.cfg:492
 msgid "I'm kind of surprised that she is not here with us."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:493 ./A_New_Order/scenarios/ano-20.cfg:450
+#: ./A_New_Order/scenarios/ano-20.cfg:450 ./A_New_Order/scenarios/ano-18.cfg:493
 msgid "I ordered Karl to tied here and lock her room. I think this gave us enough time to escape. This journey is really too dangerous for her. I hope she will stay safe in Freetown."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:497 ./A_New_Order/scenarios/ano-20.cfg:455 ./A_New_Order/scenarios/ano-20.cfg:459
+#: ./A_New_Order/scenarios/ano-20.cfg:455 ./A_New_Order/scenarios/ano-20.cfg:459 ./A_New_Order/scenarios/ano-18.cfg:497
 msgid "Hey Reme, what's going on?"
 msgstr ""
 
@@ -8099,22 +8109,22 @@ msgid "Nothing really. I think your under.. Wesnothian soldiers started to - wel
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:499 ./A_New_Order/scenarios/ano-20.cfg:461
+#: ./A_New_Order/scenarios/ano-20.cfg:461 ./A_New_Order/scenarios/ano-18.cfg:499
 msgid "Nice to hear that."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:501 ./A_New_Order/scenarios/ano-20.cfg:464
+#: ./A_New_Order/scenarios/ano-20.cfg:464 ./A_New_Order/scenarios/ano-18.cfg:501
 msgid "Mother, what's going on?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:502 ./A_New_Order/scenarios/ano-20.cfg:465
+#: ./A_New_Order/scenarios/ano-20.cfg:465 ./A_New_Order/scenarios/ano-18.cfg:502
 msgid "Mother? I think you said I am not your real mother?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-18.cfg:503 ./A_New_Order/scenarios/ano-20.cfg:466
+#: ./A_New_Order/scenarios/ano-20.cfg:466 ./A_New_Order/scenarios/ano-18.cfg:503
 msgid "I'm sorry. I was really angry."
 msgstr ""
 
@@ -8148,7 +8158,7 @@ msgstr ""
 msgid "When I was young, I visited her and she told me.. No, I can't tell you. This was just between Oracle and me. The first part of her prediction is already fulfilled. The second part.. I think I will soon know that."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_19a
 #: ./A_New_Order/scenarios/ano-19a.cfg:3
 msgid "The Woods of Okladia"
 msgstr ""
@@ -8164,12 +8174,12 @@ msgid "Marlin Barrae"
 msgstr ""
 
 #. [objectives]
-#: ./A_New_Order/scenarios/ano-23macros.cfg:585 ./A_New_Order/scenarios/ano-19a.cfg:133 ./A_New_Order/scenarios/ano-19b.cfg:120 ./A_New_Order/scenarios/ano-19c.cfg:734
+#: ./A_New_Order/scenarios/ano-23macros.cfg:585 ./A_New_Order/scenarios/ano-19a.cfg:133 ./A_New_Order/scenarios/ano-19c.cfg:734 ./A_New_Order/scenarios/ano-19b.cfg:120
 msgid "There are no interrogations in this scenario."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./A_New_Order/scenarios/ano-23macros.cfg:587 ./A_New_Order/scenarios/ano-19a.cfg:135 ./A_New_Order/scenarios/ano-19b.cfg:122 ./A_New_Order/scenarios/ano-21a.cfg:254 ./A_New_Order/scenarios/ano-21a.cfg:282 ./A_New_Order/scenarios/ano-22.cfg:333
+#: ./A_New_Order/scenarios/ano-23macros.cfg:587 ./A_New_Order/scenarios/ano-22.cfg:333 ./A_New_Order/scenarios/ano-19a.cfg:135 ./A_New_Order/scenarios/ano-21a.cfg:254 ./A_New_Order/scenarios/ano-21a.cfg:282 ./A_New_Order/scenarios/ano-19b.cfg:122
 msgid "Kill all enemy leaders OR"
 msgstr ""
 
@@ -8184,12 +8194,12 @@ msgid "So, should continue our journey?"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-19a.cfg:166 ./A_New_Order/scenarios/ano-19b.cfg:153 ./A_New_Order/scenarios/ano-19c.cfg:777 ./A_New_Order/scenarios/ano-21a.cfg:371 ./A_New_Order/scenarios/ano-22.cfg:598 ./A_New_Order/scenarios/ano-22.cfg:661 ./A_New_Order/scenarios/ano-25.cfg:460
+#: ./A_New_Order/scenarios/ano-25.cfg:460 ./A_New_Order/scenarios/ano-22.cfg:598 ./A_New_Order/scenarios/ano-22.cfg:661 ./A_New_Order/scenarios/ano-19a.cfg:166 ./A_New_Order/scenarios/ano-19c.cfg:777 ./A_New_Order/scenarios/ano-21a.cfg:371 ./A_New_Order/scenarios/ano-19b.cfg:153
 msgid "Everything is lost! The reinforcements for our enemies arrived! We have no chance now to win!"
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-19a.cfg:171 ./A_New_Order/scenarios/ano-19b.cfg:158 ./A_New_Order/scenarios/ano-22.cfg:610
+#: ./A_New_Order/scenarios/ano-22.cfg:610 ./A_New_Order/scenarios/ano-19a.cfg:171 ./A_New_Order/scenarios/ano-19b.cfg:158
 msgid "We've won! What should we do now?"
 msgstr ""
 
@@ -8198,7 +8208,7 @@ msgstr ""
 msgid "We have to hurry before the enemy reinforcements will arrive here. Let's go."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_19b
 #: ./A_New_Order/scenarios/ano-19b.cfg:3
 msgid "Entering the Okladia"
 msgstr ""
@@ -8213,7 +8223,7 @@ msgstr ""
 msgid "Ripe Scud"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_19oracle
 #: ./A_New_Order/scenarios/ano-19c.cfg:3
 msgid "The Oracle"
 msgstr ""
@@ -8346,9 +8356,9 @@ msgstr ""
 msgid "You pronounce that 'the Oracle' by big O. But indeed, where is she?"
 msgstr ""
 
+#. [unit]: id=Oracle, race=human
 #. [unit]: type=Oracle, description=Oracle
-#. [unit]: race=human
-#: ./A_New_Order/scenarios/ano-19c.cfg:786 ./A_New_Order/units/others/Oracle.cfg:6
+#: ./A_New_Order/units/others/Oracle.cfg:6 ./A_New_Order/scenarios/ano-19c.cfg:786
 msgid "Oracle"
 msgstr ""
 
@@ -8437,7 +8447,7 @@ msgstr ""
 msgid "John Fasthood"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_20
 #: ./A_New_Order/scenarios/ano-20.cfg:3
 msgid "Okladia"
 msgstr ""
@@ -8467,17 +8477,17 @@ msgstr ""
 msgid "Farmer's daughter wasn't as beautiful as I expected. She was really gleefull seeing again her father. She kissed both me - and Lorin - leaving my step-mother in the state of total dismay."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_20
 #: ./A_New_Order/scenarios/ano-20.cfg:49
 msgid "The Dead City"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_20
 #: ./A_New_Order/scenarios/ano-20.cfg:50
 msgid "The Haunted Place"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_20
 #: ./A_New_Order/scenarios/ano-20.cfg:51 ./A_New_Order/scenarios/ano-20.cfg:52
 msgid "The Road Back to Vakladia"
 msgstr ""
@@ -8485,7 +8495,7 @@ msgstr ""
 #. [side]: description=Deorien, type=Mage of Light
 #. [unit]: description=Deorien, type=Mage of Light
 #. [event]
-#: ./A_New_Order/scenarios/ano-21c.cfg:94 ./A_New_Order/scenarios/ano-21d.cfg:63 ./A_New_Order/scenarios/ano-20.cfg:84 ./A_New_Order/scenarios/ano-20.cfg:403 ./A_New_Order/scenarios/ano-20.cfg:420
+#: ./A_New_Order/scenarios/ano-21d.cfg:63 ./A_New_Order/scenarios/ano-20.cfg:84 ./A_New_Order/scenarios/ano-20.cfg:403 ./A_New_Order/scenarios/ano-20.cfg:420 ./A_New_Order/scenarios/ano-21c.cfg:94
 msgid "Deorien"
 msgstr ""
 
@@ -9557,83 +9567,83 @@ msgstr ""
 msgid "I think it's time to get use of all our reserves!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:3
 msgid "Abducted Bride"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:9 ./A_New_Order/scenarios/ano-21a.cfg:35
 msgid "Wait, do not die yet! I want you to answer few question first!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:10 ./A_New_Order/scenarios/ano-21a.cfg:36
 msgid "You have defeated me, so I will grant you your wish. What do you want to know?"
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:13 ./A_New_Order/scenarios/ano-21a.cfg:39 ./A_New_Order/scenarios/ano-21a.cfg:396
 msgid "Please tell me..."
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:14 ./A_New_Order/scenarios/ano-21a.cfg:397
 msgid "Why you have kidnapped this poor girl?"
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:15 ./A_New_Order/scenarios/ano-21a.cfg:41 ./A_New_Order/scenarios/ano-21a.cfg:398
 msgid "What are plans of king Buffin?"
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:16 ./A_New_Order/scenarios/ano-21a.cfg:42 ./A_New_Order/scenarios/ano-21a.cfg:399
 msgid "What do you know about situation in Vakladia?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:21
 msgid "Because I wanted too. I don't have to explain to anyone."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:23
 msgid "Why should I tell you? This is secret and though you gave me good fight and honourable death, I can't tell you."
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:25 ./A_New_Order/scenarios/ano-21a.cfg:410
 msgid "Vakladia is finished. The whole country is in chaos. I think Bor Cryne, one of their lords, wants to declare himself king, but not many Akladians living there will recognise him. Only Hagarthens can be kings."
 msgstr ""
 
 #. [event]
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:27 ./A_New_Order/scenarios/ano-21a.cfg:53 ./A_New_Order/scenarios/ano-21a.cfg:412
 msgid "I don't know that name."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:40
 msgid "Where your lord keeps kidnapped girl?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:47
 msgid "North from his castle, in small cage."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:49
 msgid "I don't know. What are king's plans only king will know."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21bride
 #: ./A_New_Order/scenarios/ano-21a.cfg:51
 msgid "Their king is dead, orcs are ravaging though their land, their country is in chaos.. This are hard times for worthy people. Easkladia lies in ruins, and now Vakladia goes down too.. We all wait for messiah who will end this gruelling times."
 msgstr ""
@@ -9709,7 +9719,7 @@ msgid "Release peasant girl which is kept in a cage and move her to the northern
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-23macros.cfg:599 ./A_New_Order/scenarios/ano-21a.cfg:274 ./A_New_Order/scenarios/ano-21b.cfg:145 ./A_New_Order/scenarios/ano-22.cfg:345 ./A_New_Order/scenarios/ano-25.cfg:448 ./A_New_Order/scenarios/ano-27.cfg:593 ./A_New_Order/scenarios/ano-27.cfg:845
+#: ./A_New_Order/scenarios/ano-23macros.cfg:599 ./A_New_Order/scenarios/ano-27.cfg:593 ./A_New_Order/scenarios/ano-27.cfg:845 ./A_New_Order/scenarios/ano-25.cfg:448 ./A_New_Order/scenarios/ano-22.cfg:345 ./A_New_Order/scenarios/ano-21b.cfg:145 ./A_New_Order/scenarios/ano-21a.cfg:274
 msgid "Death of Deorien"
 msgstr ""
 
@@ -9813,7 +9823,7 @@ msgstr ""
 msgid "Rats! They are more dangerous that I thought! Bring the reinforcements!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_21haunted
 #: ./A_New_Order/scenarios/ano-21b.cfg:3
 msgid "Haunted Place"
 msgstr ""
@@ -9928,8 +9938,9 @@ msgstr ""
 msgid "This castle seems to be abandoned not long ago. Probably previous owners were either killed or scared by undead. They left some gold here,it seems."
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-21c.cfg:3 ./A_New_Order/scenarios/ano-21d.cfg:3
+#. [scenario]: id=ano_21weldyn
+#. [scenario]: id=ano_21weldyn-b
+#: ./A_New_Order/scenarios/ano-21d.cfg:3 ./A_New_Order/scenarios/ano-21c.cfg:3
 msgid "Ruins of the past"
 msgstr ""
 
@@ -10004,7 +10015,7 @@ msgid "In the meantime Grekulak was trying to gather what was left from the fall
 msgstr ""
 
 #. [label]
-#: ./A_New_Order/scenarios/ano-21c.cfg:56 ./A_New_Order/scenarios/ano-21d.cfg:23
+#: ./A_New_Order/scenarios/ano-21d.cfg:23 ./A_New_Order/scenarios/ano-21c.cfg:56
 msgid "Dead city"
 msgstr ""
 
@@ -10109,12 +10120,12 @@ msgid "You may recruit mages now."
 msgstr ""
 
 #. [unit]: description=Maurice, type=Red Mage
-#: ./A_New_Order/scenarios/ano-21c.cfg:142 ./A_New_Order/scenarios/ano-21d.cfg:110
+#: ./A_New_Order/scenarios/ano-21d.cfg:110 ./A_New_Order/scenarios/ano-21c.cfg:142
 msgid "Maurice"
 msgstr ""
 
 #. [unit]: description=Alarice, type=White Mage
-#: ./A_New_Order/scenarios/ano-21c.cfg:151 ./A_New_Order/scenarios/ano-21d.cfg:118
+#: ./A_New_Order/scenarios/ano-21d.cfg:118 ./A_New_Order/scenarios/ano-21c.cfg:151
 msgid "Alarice"
 msgstr ""
 
@@ -10263,7 +10274,7 @@ msgstr ""
 msgid "She won't tell you because all she knows are legends and myths. She will tell you the tale about how God created Akladians so they could rule over the world, but the false messiah imprisoned them, so they rebelled and then they moved here. For every myth there is a true event which started it, true beginning twisted and confused with the passing generations. Listen to me now."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:3
 msgid "Leaving the Okladia"
 msgstr ""
@@ -10278,112 +10289,112 @@ msgstr ""
 msgid "It was hoped that small army would sneak succesfully out of Okladia, but on the border we marched suddenly into outposts of Okladian army. With scouts reporting about king Buffin behind our backs, we had no time for finding another way. We had to hew our way through Akladian ranks."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:54
 msgid "Treacherous dog! Harnen joined the rebels! Bring reinforcements!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:61
 msgid "Wait! Before we cross our blades, I want to know something. Tell me your name: for I think I saw your face some time ago, and now.. Maybe I heard it wrong, but aren't your people calling you Gawen Hagarthen?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:62
 msgid "I am Gawen Hagarthen."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:63
 msgid "Gawen Hagarthen, king of Vakladia?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:64
 msgid "I am Gawen Hagarthen. I was crowned king in Vattin and betrayed by my own lords during the battle of Barnon."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:67
 msgid "Stop fighting! This is our rightful king. My brother told me the truth, then. I am your hand, my sword is your sword, my king, my blood is yours to spill."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:70
 msgid "Gawen Hagarthen? But.. you were fighting with Raban Harnen, my brother recently, isn't that right?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:71
 msgid "Yes, I was."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:72
 msgid "He asked you for your name, and you answered your name was Gaumhaldric. Either you are lying now or you were lying then. Liar can't be king of Akladian people. Prepare for death."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:75
 msgid "My brother.. my brother died.. killed by someone called Gaumhaldric. Do you.. Do you know who was that Gaumhaldric?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:77 ./A_New_Order/scenarios/ano-22.cfg:100
 msgid "This was the name I used before."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:78 ./A_New_Order/scenarios/ano-22.cfg:101
 msgid "No idea who he could be."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:81 ./A_New_Order/scenarios/ano-22.cfg:104
 msgid "Liar! I know you used the name of Gaumhaldric. I was only checking whether you will have the courage to admit that. Liar can't be king of Akladian people. Prepare for death."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:83
 msgid "So, you killed my brother!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:85
 msgid "Yes. It was good fight and your brother was brave fighter."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:86
 msgid "Yes. Now it will be your turn."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:89
 msgid "We will see who will kill whom. Prepare for death!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:91
 msgid "He had honourable death. My king, my brother only opposed you because he didn't know it was you. Please, forgive him."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:92 ./A_New_Order/scenarios/ano-22.cfg:107
 msgid "I honour memory of your brother. He had not done anything which would have to be forgiven."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:93 ./A_New_Order/scenarios/ano-22.cfg:108
 msgid "Stop fighting! This is our rightful king. I am the your hand, my sword is your sword, my king, my blood is yours to spill."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:98
 msgid "My brother fought with soldiers led by someone called Gaumhaldric. Do you.. Do you know who was that Gaumhaldric?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_22
 #: ./A_New_Order/scenarios/ano-22.cfg:106
 msgid "My king, my brother only opposed you because he didn't know it was you. Please, forgive him."
 msgstr ""
@@ -10758,8 +10769,11 @@ msgstr ""
 msgid "Gee, don't panic. That's only the king Buffin's army's vanguard. I assure you that we have all the chances to win."
 msgstr ""
 
-#. [scenario]
-#: ./A_New_Order/scenarios/ano-23b.cfg:3 ./A_New_Order/scenarios/ano-23c.cfg:3 ./A_New_Order/scenarios/ano-23d.cfg:3 ./A_New_Order/scenarios/ano-23.cfg:3
+#. [scenario]: id=ano_23reumario
+#. [scenario]: id=ano_23reumario_left
+#. [scenario]: id=ano_23reumario_killed
+#. [scenario]: id=ano_23normal
+#: ./A_New_Order/scenarios/ano-23.cfg:3 ./A_New_Order/scenarios/ano-23c.cfg:3 ./A_New_Order/scenarios/ano-23b.cfg:3 ./A_New_Order/scenarios/ano-23d.cfg:3
 msgid "Trapped"
 msgstr ""
 
@@ -10774,12 +10788,12 @@ msgid "Oh my, I am scared. Haeltin? Let me think... Ah yes, I remember now. You 
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23b.cfg:18 ./A_New_Order/scenarios/ano-23.cfg:18
+#: ./A_New_Order/scenarios/ano-23.cfg:18 ./A_New_Order/scenarios/ano-23b.cfg:18
 msgid "Mother, it's enough we have four Akladian armies on our head. You do not have to make them even more furious."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23b.cfg:19 ./A_New_Order/scenarios/ano-23.cfg:19
+#: ./A_New_Order/scenarios/ano-23.cfg:19 ./A_New_Order/scenarios/ano-23b.cfg:19
 msgid "And who is this niddering stripling, who think that by growing beard he can start to look as a man, who is hiding behind his mother back?"
 msgstr ""
 
@@ -10794,7 +10808,7 @@ msgid "Reumario, whatever my mother did to you, there is no need for you to beha
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23b.cfg:22 ./A_New_Order/scenarios/ano-23.cfg:22
+#: ./A_New_Order/scenarios/ano-23.cfg:22 ./A_New_Order/scenarios/ano-23b.cfg:22
 msgid " Heh, Heh, 'if you don't like me', Gawen, you are fabulous."
 msgstr ""
 
@@ -10804,22 +10818,22 @@ msgid "Ha, Reumario. Does this feel a bit like a deja vu? What was again what yo
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23b.cfg:28 ./A_New_Order/scenarios/ano-23c.cfg:43 ./A_New_Order/scenarios/ano-23.cfg:28
+#: ./A_New_Order/scenarios/ano-23.cfg:28 ./A_New_Order/scenarios/ano-23c.cfg:43 ./A_New_Order/scenarios/ano-23b.cfg:28
 msgid "I am not affraid, old hag. I am dying anyway."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23c.cfg:44 ./A_New_Order/scenarios/ano-23.cfg:29
+#: ./A_New_Order/scenarios/ano-23.cfg:29 ./A_New_Order/scenarios/ano-23c.cfg:44
 msgid "Different are the kinds of death, Reumario."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23b.cfg:30 ./A_New_Order/scenarios/ano-23c.cfg:45 ./A_New_Order/scenarios/ano-23.cfg:30
+#: ./A_New_Order/scenarios/ano-23.cfg:30 ./A_New_Order/scenarios/ano-23c.cfg:45 ./A_New_Order/scenarios/ano-23b.cfg:30
 msgid "Mother, put down that knife! This is an order."
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-23c.cfg:46 ./A_New_Order/scenarios/ano-23.cfg:31
+#: ./A_New_Order/scenarios/ano-23.cfg:31 ./A_New_Order/scenarios/ano-23c.cfg:46
 msgid "What knife?"
 msgstr ""
 
@@ -11298,7 +11312,7 @@ msgstr ""
 msgid "Survive to the end of time limit"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_24
 #: ./A_New_Order/scenarios/ano-24.cfg:3
 msgid "Fall of Freetown"
 msgstr ""
@@ -11438,47 +11452,47 @@ msgstr ""
 msgid "Also, since you were joined by Rob Roe in the past, you may again recruit Thugs, Henchmen, Thiefs and Footpads."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:3
 msgid "The Awakening"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:12
 msgid "My Lord! My lord is dead!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:13
 msgid "Well, noble lord, do you think I proved I am worthy to be your king?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:14
 msgid "Yes, you did."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:16
 msgid "Will you then stop the fight and join us?"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:17
 msgid "It's a shame then I have to kill you."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:21
 msgid "I will be honoured to fight at your side, my king."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:36 ./A_New_Order/scenarios/ano-25.cfg:166
 msgid "Long live our king Gawen Haldric! It will be honour to fight for you, my king!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_25
 #: ./A_New_Order/scenarios/ano-25.cfg:38
 msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
 msgstr ""
@@ -11634,7 +11648,7 @@ msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./A_New_Order/scenarios/ano-25.cfg:452 ./A_New_Order/scenarios/ano-27.cfg:601 ./A_New_Order/scenarios/ano-27.cfg:853
+#: ./A_New_Order/scenarios/ano-27.cfg:601 ./A_New_Order/scenarios/ano-27.cfg:853 ./A_New_Order/scenarios/ano-25.cfg:452
 msgid "Death of Huon Ryedric"
 msgstr ""
 
@@ -11784,7 +11798,7 @@ msgid "Underling, be silent. You know nothing. You all know nothing. Lorin will 
 msgstr ""
 
 #. [event]
-#: ./A_New_Order/scenarios/ano-25.cfg:670 ./A_New_Order/scenarios/ano-27.cfg:720
+#: ./A_New_Order/scenarios/ano-27.cfg:720 ./A_New_Order/scenarios/ano-25.cfg:670
 msgid "Aaargh! I haven't revenged my family!"
 msgstr ""
 
@@ -11878,7 +11892,7 @@ msgstr ""
 msgid "I should've stayed in hills in the north..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_26
 #: ./A_New_Order/scenarios/ano-26.cfg:3
 msgid "Return of the king"
 msgstr ""
@@ -11993,7 +12007,7 @@ msgstr ""
 msgid "(To herself) 200 golden pieces! Wow, I'm impressed. I bet they will be forced to beg now, losing so ENORMOUS amount of gold."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_27
 #: ./A_New_Order/scenarios/ano-27.cfg:3
 msgid "Orannon"
 msgstr ""
@@ -12108,15 +12122,15 @@ msgstr ""
 msgid "Lucs"
 msgstr ""
 
-#. [unit]: description=Luc Hagarthen, type=Akladian Lord
 #. [side]: description=Luc Hagarthen, type=Akladian Lord
-#: ./A_New_Order/scenarios/ano-27.cfg:631 ./A_New_Order/scenarios/ano-28.cfg:57
+#. [unit]: description=Luc Hagarthen, type=Akladian Lord
+#: ./A_New_Order/scenarios/ano-28.cfg:57 ./A_New_Order/scenarios/ano-27.cfg:631
 msgid "Luc Hagarthen"
 msgstr ""
 
-#. [unit]: description=Gauri Hagarthen, type=Akladian Lord
 #. [side]: description=Gauri Hagarthen, type=Akladian Lord
-#: ./A_New_Order/scenarios/ano-27.cfg:645 ./A_New_Order/scenarios/ano-28.cfg:66
+#. [unit]: description=Gauri Hagarthen, type=Akladian Lord
+#: ./A_New_Order/scenarios/ano-28.cfg:66 ./A_New_Order/scenarios/ano-27.cfg:645
 msgid "Gauri Hagarthen"
 msgstr ""
 
@@ -12588,7 +12602,7 @@ msgstr ""
 msgid "The king wants to be alone."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_29
 #: ./A_New_Order/scenarios/ano-29.cfg:3
 msgid "Epilogue"
 msgstr ""
@@ -12683,7 +12697,7 @@ msgstr ""
 msgid " This is the end of the story of Lorin from Gallorae's and Gawen Hagarthen."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=ano_final
 #: ./A_New_Order/scenarios/ano-30.cfg:42
 msgid "Final"
 msgstr ""
@@ -12828,58 +12842,58 @@ msgstr ""
 msgid "Total points: $points "
 msgstr ""
 
-#. [race]
+#. [race]: id=akladian
 #: ./A_New_Order/units/_main.cfg:4
 msgid "race^Akladian"
 msgstr ""
 
-#. [race]
+#. [race]: id=akladian
 #: ./A_New_Order/units/_main.cfg:5
 msgid "race+female^Akladian"
 msgstr ""
 
-#. [race]
+#. [race]: id=akladian
 #: ./A_New_Order/units/_main.cfg:6
 msgid "race^Akladians"
 msgstr ""
 
-#. [race]
+#. [race]: id=aragwaith
 #: ./A_New_Order/units/_main.cfg:57
 msgid "race^Aragwaith"
 msgstr ""
 
-#. [race]
+#. [race]: id=aragwaith
 #: ./A_New_Order/units/_main.cfg:58
 msgid "race+female^Aragwaith"
 msgstr ""
 
-#. [race]
+#. [race]: id=aragwaith
 #: ./A_New_Order/units/_main.cfg:59
 msgid "race^Aragwaithi"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Chieftain, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:4
 msgid "Akladian Chieftain"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Chieftain, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:29
 msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 
 #. [attack]: type=blade
-#. [advancement]
-#: ./A_New_Order/units/aragwaithi/Guard.cfg:73 ./A_New_Order/units/aragwaithi/Greatbow.cfg:62 ./A_New_Order/units/aragwaithi/Captain.cfg:42 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:42 ./A_New_Order/units/aragwaithi/Swordsman.cfg:100 ./A_New_Order/units/aragwaithi/Shield_Guard.cfg:28 ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:43 ./A_New_Order/units/akladians/Akladian_Princess.cfg:32 ./A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29 ./A_New_Order/units/akladians/Akladian_Protector.cfg:72 ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:33 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:32 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:69 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:85 ./A_New_Order/units/akladians/Akladian_Leader.cfg:31 ./A_New_Order/units/akladians/Akladian_Lady.cfg:39 ./A_New_Order/units/akladians/Akladian_Raider.cfg:30 ./A_New_Order/units/akladians/Akladian_Homeguard.cfg:30 ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:28 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:68 ./A_New_Order/units/akladians/Akladian_Queen.cfg:92 ./A_New_Order/units/akladians/Akladian_Lord.cfg:47 ./A_New_Order/units/akladians/Hagarthen.cfg:32 ./A_New_Order/units/others/Ruvio.cfg:48 ./A_New_Order/units/others/Ruvios_Daughter.cfg:25
+#. [advancement]: id=sword
+#: ./A_New_Order/units/others/Ruvios_Daughter.cfg:25 ./A_New_Order/units/others/Ruvio.cfg:48 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:68 ./A_New_Order/units/akladians/Akladian_Chieftain.cfg:33 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:69 ./A_New_Order/units/akladians/Akladian_Shieldguard.cfg:29 ./A_New_Order/units/akladians/Akladian_Homeguard.cfg:30 ./A_New_Order/units/akladians/Akladian_Princess.cfg:32 ./A_New_Order/units/akladians/Hagarthen.cfg:32 ./A_New_Order/units/akladians/Akladian_Lord.cfg:47 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:32 ./A_New_Order/units/akladians/Akladian_Raider.cfg:30 ./A_New_Order/units/akladians/Akladian_Lady.cfg:39 ./A_New_Order/units/akladians/Akladian_Protector.cfg:72 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:85 ./A_New_Order/units/akladians/Akladian_Queen.cfg:92 ./A_New_Order/units/akladians/Akladian_Leader.cfg:31 ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:28 ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:43 ./A_New_Order/units/aragwaithi/Greatbow.cfg:62 ./A_New_Order/units/aragwaithi/Shield_Guard.cfg:28 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:42 ./A_New_Order/units/aragwaithi/Swordsman.cfg:100 ./A_New_Order/units/aragwaithi/Guard.cfg:73 ./A_New_Order/units/aragwaithi/Captain.cfg:42
 msgid "sword"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Clanmember, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Clanmember.cfg:4
 msgid "Akladian Clanmember"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Clanmember, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Clanmember.cfg:20
 msgid "Akladian Clanmembers are core of Akladian tribes. They are raised in culture promoting violence and hearing from childhood that their destination is to rule over the world. While very lightly armoured and badly armed they still can be dangerous, especially when used in larger groups. They are recruited only for defense of their kingdoms."
 msgstr ""
@@ -12889,127 +12903,129 @@ msgstr ""
 msgid "short spear"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Darknite, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Darknite, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Darknite.cfg:24
 msgid "After spending whole their life in constant fight, Darknites are excellent warriors and formidable opponents, hated and feared in world of Wesnoth. They know no pity and except none."
 msgstr ""
 
-#. [advancement]
-#: ./A_New_Order/units/akladians/Akladian_Protector.cfg:58 ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:32 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:80 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:28 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:32 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:28 ./A_New_Order/units/akladians/Akladian_Queen.cfg:78 ./A_New_Order/units/akladians/Akladian_Lord.cfg:33 ./A_New_Order/units/others/Ruvio.cfg:38
+#. [advancement]: id=tough
+#: ./A_New_Order/units/others/Ruvio.cfg:38 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:28 ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:28 ./A_New_Order/units/akladians/Akladian_Lord.cfg:33 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:80 ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:32 ./A_New_Order/units/akladians/Akladian_Protector.cfg:58 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:32 ./A_New_Order/units/akladians/Akladian_Queen.cfg:78
 msgid "tough"
 msgstr ""
 
-#. [advancement]
-#: ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:72 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:42
+#. [advancement]: id=fast_attack
+#: ./A_New_Order/units/akladians/Akladian_Darknite.cfg:42 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:72
 msgid "fast attack"
 msgstr ""
 
-#. [advancement]
-#: ./A_New_Order/units/akladians/Akladian_Protector.cfg:28 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:67 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:42 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:55 ./A_New_Order/units/akladians/Akladian_Queen.cfg:51 ./A_New_Order/units/others/Ruvio.cfg:25
+#. [advancement]: id=fighter
+#: ./A_New_Order/units/others/Ruvio.cfg:25 ./A_New_Order/units/akladians/Akladian_Darknite.cfg:55 ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:67 ./A_New_Order/units/akladians/Akladian_Protector.cfg:28 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:42 ./A_New_Order/units/akladians/Akladian_Queen.cfg:51
 msgid "fighter"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Fastfoot, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:4
 msgid "Akladian Fastfoot"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Fastfoot, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:24
 msgid "Akladian Fastfoots are members of personal armies of Akladian lords. They are almost professional soldiers, being equipped by their masters. Having light armour, they put all their hope in mastering of the sword."
 msgstr ""
 
-#. [advancement]
+#. [advancement]: id=sword_dancer
 #: ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:42 ./A_New_Order/units/akladians/Akladian_Queen.cfg:64
 msgid "sword dancer"
 msgstr ""
 
-#. [advancement]
+#. [advancement]: id=fast
 #: ./A_New_Order/units/akladians/Akladian_Fastfoot.cfg:56
 msgid "fast"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Holyman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Holyman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Holyman.cfg:28
 msgid "Devoting their whole life to task of healing and curing, Akladian Holymans are respected amongst tribes, and useful to Akladian lords."
 msgstr ""
 
 #. [attack]: type=impact
-#: ./A_New_Order/units/aragwaithi/Warlock.cfg:28 ./A_New_Order/units/aragwaithi/Wizard.cfg:27 ./A_New_Order/units/akladians/Akladian_Wiseman.cfg:32 ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:46 ./A_New_Order/units/akladians/Akladian_Holyman.cfg:32 ./A_New_Order/units/others/Shaman.cfg:25
+#: ./A_New_Order/units/others/Shaman.cfg:25 ./A_New_Order/units/akladians/Akladian_Wiseman.cfg:32 ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:46 ./A_New_Order/units/akladians/Akladian_Holyman.cfg:32 ./A_New_Order/units/aragwaithi/Warlock.cfg:28 ./A_New_Order/units/aragwaithi/Wizard.cfg:27
 msgid "staff"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Homeguard, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Homeguard.cfg:4
 msgid "Akladian Homeguard"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Homeguard, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Homeguard.cfg:26
 msgid "Facing hostility of all other nations, Akladians had to create special units devoting whole their life to guarding the settlements of the clans."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Lady, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Princess, race=akladian
+#. [unit]: id=Akladian Lady, race=akladian
+#. [unit]: id=Akladian Queen, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Princess.cfg:28 ./A_New_Order/units/akladians/Akladian_Lady.cfg:35 ./A_New_Order/units/akladians/Akladian_Queen.cfg:29
 msgid "While relationship between sexes in Akladian society is far from equal treatment, all woman are expected to be able to handle weapons, and those who are wifes or children of great warriors are commonly thought to master use of the sword as well as their husbands or fathers."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Leader, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Leader.cfg:4
 msgid "Akladian Leader"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Leader, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Leader.cfg:27
 msgid "Some of the Akladian warriors because of their personal achievements or their descendency are leading the others, starting their career which some day may result in leading the whole tribe."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Light Infantry, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:4
 msgid "Akladian Light Infantry"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Light Infantry, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:25
 msgid "The best of Akladian warriors are choosed by their lords to serve in their regular armies, and they became professional soldiers. They have to equip themselves, however, which results in light armour and spear being their weapon of choice."
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./A_New_Order/units/aragwaithi/Silver_Shield.cfg:73 ./A_New_Order/units/aragwaithi/Lancer.cfg:71 ./A_New_Order/units/aragwaithi/Scout.cfg:67 ./A_New_Order/units/aragwaithi/Guardian.cfg:30 ./A_New_Order/units/aragwaithi/Captain.cfg:34 ./A_New_Order/units/aragwaithi/Pikeman.cfg:29 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:34 ./A_New_Order/units/aragwaithi/Spearman.cfg:49 ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:35 ./A_New_Order/units/akladians/Akladian_Warrior.cfg:30 ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:29 ./A_New_Order/units/others/City_Militia.cfg:44
+#: ./A_New_Order/units/others/City_Militia.cfg:44 ./A_New_Order/units/akladians/Akladian_LightInfantry.cfg:29 ./A_New_Order/units/akladians/Akladian_Warrior.cfg:30 ./A_New_Order/units/aragwaithi/Silver_Shield.cfg:73 ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:35 ./A_New_Order/units/aragwaithi/Scout.cfg:67 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:34 ./A_New_Order/units/aragwaithi/Pikeman.cfg:29 ./A_New_Order/units/aragwaithi/Spearman.cfg:49 ./A_New_Order/units/aragwaithi/Lancer.cfg:71 ./A_New_Order/units/aragwaithi/Captain.cfg:34 ./A_New_Order/units/aragwaithi/Guardian.cfg:30
 msgid "spear"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Lord, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Lord.cfg:4
 msgid "Akladian Lord"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Lord, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Lord.cfg:29
 msgid "Those of chieftain who gained enough reputation and fame may end as leaders of whole tribes."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Pikeneer, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:4
 msgid "Akladian Pikeneer"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Pikeneer, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Pikeneer.cfg:28
 msgid "Akladian Pikeneers are members of permanent personal armies of Akladian lords, being closest thing to regular army Akladians have. They receive all needed supplies and their weapons from their master, whom they owe personal loyalty."
 msgstr ""
@@ -13019,87 +13035,87 @@ msgstr ""
 msgid "pike"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Princess, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Protector, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Protector.cfg:4
 msgid "Akladian Protector"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Protector, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Protector.cfg:24
 msgid "Veterans of many fights and surviving many defenses against invading enemies, Protectors forms caste of excellent warriors with their own codex, devoting whole their life for protecting their clans."
 msgstr ""
 
-#. [advancement]
+#. [advancement]: id=armoured
 #: ./A_New_Order/units/akladians/Akladian_Protector.cfg:41 ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:54 ./A_New_Order/units/akladians/Akladian_Queen.cfg:33
 msgid "armoured"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Queen, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Queen.cfg:4
 msgid "female^Queen"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Raider, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Raider.cfg:4
 msgid "Akladian Raider"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Raider, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Raider.cfg:26
 msgid "Many Akladians join the armies of their lords, making the war their true profession. War provides them sense of life and means of life."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Shieldguard, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Shieldguard.cfg:4
 msgid "Akladian Shieldguard"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Shieldguard, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Shieldguard.cfg:25
 msgid "Those of Akladians who can afford it, wear better armour forming units which become last stands of hope if the enemy seeking revenge for the raids siegs home settlements of the clans."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Sturmknight, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:4
 msgid "Akladian Sturmknight"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Sturmknight, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Sturmknight.cfg:24
 msgid "Raids are well paid job and thanks to them many Akladians manage to equip themselves with better armour and weapons."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Warrior, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Warrior.cfg:4
 msgid "Akladian Warrior"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Warrior, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Warrior.cfg:26
 msgid "Spending their times in constant fights and raids, many Akladian clanmember become warriors, joining army not only in defense but also in raids against neighbouring lands."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Wiseman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Wiseman.cfg:4
 msgid "Akladian Wiseman"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Wiseman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Wiseman.cfg:28
 msgid "Akladian Wisemans are those very few from tribes, who study herbs and ways to heal, instead to harm and kill people"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Wonderman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:4
 msgid "Akladian Wonderman"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Akladian Wonderman, race=akladian
 #: ./A_New_Order/units/akladians/Akladian_Wonderman.cfg:28
 msgid "Very rare amongst Akladian tribes, Wonderman are those who spend their whole life studying ways of healing. They do not ignore even experiences of Wesnothians, and learned few valuable tricks in process."
 msgstr ""
@@ -13109,32 +13125,32 @@ msgstr ""
 msgid "lightbeam"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/Hagarthen.cfg:4
 msgid "Hagarthen"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/Hagarthen.cfg:28
 msgid "When the youth of the Gawen Hagarthen had passed, he understood that to became respected amongst his tribe he must became skilled in sword as well as in politics."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Lord Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:4
 msgid "Lord Hagarthen"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Lord Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/Lord_Hagarthen.cfg:28
 msgid "It takes usually many years until young Hagarthen clan members are consired worth to become kings. Such Hagarthen clan members are then called lords."
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Young Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/YoungHagarthen.cfg:4
 msgid "Young Hagarthen"
 msgstr ""
 
-#. [unit]: race=akladian
+#. [unit]: id=Young Hagarthen, race=akladian
 #: ./A_New_Order/units/akladians/YoungHagarthen.cfg:28
 msgid "The clan of Hagarthen was ruling the Akladian kingdoms for many generation. This heritage and this burden causes even young Hagarthen to try (sometimes without big results) to become better warriors than others."
 msgstr ""
@@ -13144,123 +13160,128 @@ msgstr ""
 msgid "training sword"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Ancient Banner, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:5
 msgid "Ancient Banner"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Ancient Banner, race=aragwaith
+#. [unit]: id=Aragwaith Flagbearer, race=aragwaith
+#. [unit]: id=Aragwaith Pikeman, race=aragwaith
+#. [unit]: id=Aragwaith Captain, race=aragwaith
 #. [female]
-#: ./A_New_Order/units/aragwaithi/Guardian.cfg:18 ./A_New_Order/units/aragwaithi/Captain.cfg:29 ./A_New_Order/units/aragwaithi/Pikeman.cfg:17 ./A_New_Order/units/aragwaithi/Wizard.cfg:21 ./A_New_Order/units/aragwaithi/Wizard.cfg:109 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:29 ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:30
+#. [unit]: id=Aragwaith Wizard, race=aragwaith
+#. [unit]: id=Aragwaith Guardian, race=aragwaith
+#: ./A_New_Order/units/aragwaithi/Ancient_Banner.cfg:30 ./A_New_Order/units/aragwaithi/Flagbearer.cfg:29 ./A_New_Order/units/aragwaithi/Pikeman.cfg:17 ./A_New_Order/units/aragwaithi/Captain.cfg:29 ./A_New_Order/units/aragwaithi/Wizard.cfg:21 ./A_New_Order/units/aragwaithi/Wizard.cfg:109 ./A_New_Order/units/aragwaithi/Guardian.cfg:18
 msgid "NEED SOME DESCRIPTION HERE"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Archer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Archer.cfg:5
 msgid "Archer"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Archer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Archer.cfg:18
 msgid "The Aragwaithi are a noble people, fragile in body, but their training makes them among the more deadly denizens of this world. Their archers are no exception. Their skills with a bow are comparable to those of some elves, and they are remarkably quick with their daggers."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./A_New_Order/units/aragwaithi/Archer.cfg:84 ./A_New_Order/units/aragwaithi/Strongbow.cfg:20
+#: ./A_New_Order/units/aragwaithi/Strongbow.cfg:20 ./A_New_Order/units/aragwaithi/Archer.cfg:84
 msgid "knife"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./A_New_Order/units/aragwaithi/Greatbow.cfg:71 ./A_New_Order/units/aragwaithi/Archer.cfg:93 ./A_New_Order/units/aragwaithi/Slayer.cfg:35 ./A_New_Order/units/aragwaithi/Strongbow.cfg:29
+#: ./A_New_Order/units/aragwaithi/Greatbow.cfg:71 ./A_New_Order/units/aragwaithi/Slayer.cfg:35 ./A_New_Order/units/aragwaithi/Strongbow.cfg:29 ./A_New_Order/units/aragwaithi/Archer.cfg:93
 msgid "bow"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Captain, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Captain.cfg:5
 msgid "Captain"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Flagbearer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Flagbearer.cfg:5
 msgid "Flagbearer"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Greatbow, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Greatbow.cfg:5
 msgid "Greatbow"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Greatbow, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Greatbow.cfg:19
 msgid "Finally moving on from the dirk and dagger to the sword, the Greatbow is superior to the Strongbow in melee combat, but not as powerful as the Slayer. Their bow, however, is a masterpiece of military design. Several months are spent crafting a single bow, and each bow is crafted by the user, to his individual specifications. Due to the incredible strength required to pull these bows, anyone but the crafter who attempts to draw it could suffer serious injury."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Guard, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Guard.cfg:5
 msgid "Guard"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Guard, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Guard.cfg:23
 msgid "Chosen from the toughest Swordsmen, Guards willingly forgo some of thier mobility for the advantages of armor. Whether in ceremonial posts during peace, or on the battlefield in times of war, their role is always the same: defending the Warlock nobilty."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Guardian, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Guardian.cfg:5
 msgid "Guardian"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Lancer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Lancer.cfg:5
 msgid "Lancer"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Longswordsman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Longswordsman.cfg:5
 msgid "Longswordsman"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Longswordsman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Longswordsman.cfg:17
 msgid "While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other races, the Aragwaithi reserve their own admiration for Longswordsmen. These warriors have become so adept at the arts of thrust and parry that they have adopted a longer blade than the Swordsmen, yet they are able to wield it with equal grace and skill."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./A_New_Order/units/aragwaithi/Longswordsman.cfg:62 ./A_New_Order/units/aragwaithi/Swordmaster.cfg:79
+#: ./A_New_Order/units/aragwaithi/Swordmaster.cfg:79 ./A_New_Order/units/aragwaithi/Longswordsman.cfg:62
 msgid "longsword"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Pikeman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Pikeman.cfg:5
 msgid "Pikeman"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Scout, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Scout.cfg:5
 msgid "Scout"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Shield Guard, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Shield_Guard.cfg:5
 msgid "Shield Guard"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Shield Guard, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Shield_Guard.cfg:23
 msgid "These warriors wear the old shields of their ancients. These ancients could hold the line in the great battles until the reinforcements arrived, but they paid a high price, not many survived the battle and many others died through their strong wounds. Now only the best warriors are allowed to carry these ancient shields to remind the world and to honor these brave man and their sacrifice."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Silver Shield, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Silver_Shield.cfg:5
 msgid "Silver Shield"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Slayer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Slayer.cfg:5
 msgid "Slayer"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Slayer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Slayer.cfg:21
 msgid "While improving only marginally on the power of their bow, the Slayer abandons the blade in favor of training with a glaive, improving his skills in hand-to-hand combat. He is not as rugged as others of comparable skill, but far deadlier."
 msgstr ""
@@ -13270,59 +13291,59 @@ msgstr ""
 msgid "glaive"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Sorcerer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Sorcerer.cfg:5
 msgid "Sorcerer"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Sorcerer, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Sorcerer.cfg:20
 msgid "The mighty Aragwaith Sorcerers are gracile like wind. They can confuse their oponents by standing in fron of them, seemingly defenseless; after the attacker hits, they notice their victim is behind them, ready to perform his own killing strike. On the battlefield these sorcerers are fearsome enemies; even their comrades keep an eye on them, carefully, from a safe distance. And so it happens that even the Royal orders of Wesnothian magi treat these noble lores with respect and caution."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Spearman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Spearman.cfg:18
 msgid "The less dextrous and stronger Aragwaith take up the spear. Useful in hunting, this weapon is also deadly on the battlefield. Many impetuous knights have found themselves or their mounts impaled on the point of an Aragwaithi spear."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Strongbow, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Strongbow.cfg:5
 msgid "Strongbow"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Strongbow, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Strongbow.cfg:35
 msgid "By wielding a stronger bow and training almost constantly, the Aragwaith Strongbow fires a far deadlier shot than the average archer. Their dirks are longer than the daggers used by the typical archer, and they wield them far more effectively."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Swordmaster, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Swordmaster.cfg:5
 msgid "Swordmaster"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Swordmaster, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Swordmaster.cfg:19
 msgid ""
 "Swordmasters do not come into their title lightly. They have endured years of rigorous Aragwaithi military training, and survived many ferocious battles. Their skill with their blades is spoken of with awe among those few foes who have witnessed it - and lived.\n"
 "Having won thier title, Swordmasters take responsibility for instructing the young, passing on the proud Aragwaithi martial traditions. Even the Royal Guards of Wesnoth respect the Swordmasters."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Swordsman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Swordsman.cfg:43
 msgid "Swordsman"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Swordsman, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Swordsman.cfg:56
 msgid "While the Aragwaithi are slight of body, they are also fast and nimble. These abilites, coupled with the intensive training given to the Agarwaithi military, make for superb swordsmen. Swordsmen are clad in light chain mail - the better to resist the blades of their enemies."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Warlock, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Warlock.cfg:5
 msgid "Aragwaith^Warlock"
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Warlock, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Warlock.cfg:21
 msgid "The magically inclined among the Aragwaith recieve not only the martial training so common in Aragwaithi society, but also in the art of healing, and of course in magic. Wielding powerful fire, competent with their staves, possessing a healing touch, Warlocks are the noblest of a noble people."
 msgstr ""
@@ -13342,7 +13363,7 @@ msgstr ""
 msgid "female^The magically inclined among the Aragwaith recieve not only the martial training so common in Aragwaithi society, but also in the art of healing, and of course in magic. Wielding powerful fire, competent with their staves, possessing a healing touch, Warlocks are the noblest of a noble people."
 msgstr ""
 
-#. [unit]: race=aragwaith
+#. [unit]: id=Aragwaith Wizard, race=aragwaith
 #: ./A_New_Order/units/aragwaithi/Wizard.cfg:5
 msgid "Aragwaith^Wizard"
 msgstr ""
@@ -13352,12 +13373,12 @@ msgstr ""
 msgid "female^Wizard"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Brigand, race=human
 #: ./A_New_Order/units/others/Brigand.cfg:5
 msgid "Brigand"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Brigand, race=human
 #: ./A_New_Order/units/others/Brigand.cfg:18
 msgid "Mounted and wielding wicked-looking sickles, brigands left behind the farming life to stalk Wesnoth's lonely backroads in small bands, robbing travelers.  They also carry crude crossbows but are not very skilled with them."
 msgstr ""
@@ -13372,27 +13393,27 @@ msgstr ""
 msgid "crossbow"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=City Militia, race=human
 #: ./A_New_Order/units/others/City_Militia.cfg:4
 msgid "City Militia"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=City Militia, race=human
 #: ./A_New_Order/units/others/City_Militia.cfg:23
 msgid "City militia is composed from citizens of Wesnothian towns. Their role is usually just policing the cities and guarding the walls."
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Oracle, race=human
 #: ./A_New_Order/units/others/Oracle.cfg:20
 msgid "No description. It will never appear anywhere, since the unit is fake."
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Outlaw Raider, race=human
 #: ./A_New_Order/units/others/Outlaw_Raider.cfg:5
 msgid "Outlaw Raider"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Outlaw Raider, race=human
 #: ./A_New_Order/units/others/Outlaw_Raider.cfg:33
 msgid "After a four or five robbings any Brigands that last that long will usually find a sword of some type. Usually this is a sabre because fencers are their most regular prey as they often wander around lonely backroads looking for a fights most of the time. They also usually build or buy (or steal) a better crosbow and their accuracy and skill have both improved with practice."
 msgstr ""
@@ -13402,32 +13423,32 @@ msgstr ""
 msgid "sabre"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Peasant girl, race=human
 #: ./A_New_Order/units/others/Peasant_girl.cfg:5
 msgid "Peasant girl"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Peasant girl, race=human
 #: ./A_New_Order/units/others/Peasant_girl.cfg:25
 msgid "The young girl. She cannot fight, she cannot even defend herself. She appears only once in one scenario."
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Ruvio, race=human
 #: ./A_New_Order/units/others/Ruvio.cfg:21
 msgid "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and crossbow became better than above average, to say it modestly; Even though the age had its impact on Ruvio, he still is dangerous opponent."
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Ruvios Daughter, race=human
 #: ./A_New_Order/units/others/Ruvios_Daughter.cfg:21
 msgid "Being one of four daughters of great warrior was never an easy task. Hearing from childhood about battles, knights and great deeds of her father, Karen early decided that being a good housewife is definetely not her destiny."
 msgstr ""
 
-#. [unit]: race=orc
+#. [unit]: id=Orcish Shaman, race=orc
 #: ./A_New_Order/units/others/Shaman.cfg:5
 msgid "Orcish Shaman"
 msgstr ""
 
-#. [unit]: race=orc
+#. [unit]: id=Orcish Shaman, race=orc
 #: ./A_New_Order/units/others/Shaman.cfg:20
 msgid "Orcish Shamans are the guardians of orcish magic. Respected among orcish tribes, they form the Orcish Council, which makes important decisions for the whole Orcish community and arbitrates the many conflicts that arise between tribes of this argumentative race. Although physically weak (for Orcs), Orcish Shamans are good spell casters and can curse their enemies, draining their life."
 msgstr ""
